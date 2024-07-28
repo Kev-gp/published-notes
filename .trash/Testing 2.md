@@ -2,9 +2,9 @@
 aliases: 
 tags: 
 draft: true
-date: <% tp.file.creation_date("YYYY-MM-DD") %>
+created: 2024-07-28
 ---
-# <% tp.file.title %>
+# Testing
 
 <% tp.file.cursor(0) %>
 
