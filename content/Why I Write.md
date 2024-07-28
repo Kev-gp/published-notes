@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-draft: false
+draft: true
 date: 2024-07-29
 ---
 Figure 1: My daily journal.
