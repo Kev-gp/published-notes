@@ -1,5 +1,5 @@
 ---
-title: '"Title"'
+title: Title
 draft: true
 tags:
 ---
