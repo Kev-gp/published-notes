@@ -4,8 +4,4 @@ tags:
 draft: true
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
-# <% tp.file.title %>
-
-<% tp.file.cursor(0) %>
-
 <% await tp.file.move("/00 Inbox/" + tp.file.title) %>

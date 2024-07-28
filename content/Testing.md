@@ -4,7 +4,5 @@ tags:
 draft: false
 date: 2024-07-28
 ---
-# Testing
-
 This is a test file.
 
