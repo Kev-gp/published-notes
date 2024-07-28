@@ -1,6 +1,6 @@
 ---
 title: Title
-draft: true
+draft: false
 tags:
 ---
 this is a test file
