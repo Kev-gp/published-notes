@@ -21,6 +21,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.MobileOnly(Component.RecentNotes({
+      title: "Recent Writing",
+      limit: 5
+    }))
   ],
   left: [
     Component.PageTitle(),
@@ -28,10 +32,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
-    Component.RecentNotes({
+    Component.DesktopOnly(Component.RecentNotes({
       title: "Recent Writing",
       limit: 5
-    })
+    }))
   ],
   right: [
     Component.Graph(),
