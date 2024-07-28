@@ -29,7 +29,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
     Component.RecentNotes({
-      title: "Recent Writing"
+      title: "Recent Writing",
+      limit: 5
     })
   ],
   right: [
