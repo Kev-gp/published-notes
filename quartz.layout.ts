@@ -4,10 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.MobileOnly(Component.Search()),
-    Component.MobileOnly(Component.Darkmode())
-  ],
+  header: [],
   afterBody: [
     Component.MobileOnly(Component.Graph())
   ],
@@ -30,7 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(Component.Search()),
+    Component.Search(),
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Recent Writing",
