@@ -1,5 +1,5 @@
 ---
-title: Welcome to my World
+title: Kevin's Second Brain
 ---
 
 This is a blank Quartz installation.
