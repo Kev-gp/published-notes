@@ -1,6 +1,6 @@
 ---
-title: Kevin's Second Brain
+title: My Second Brain
 ---
+## Introduction
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Testing
