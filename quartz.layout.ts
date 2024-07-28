@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.MobileOnly(Component.RecentNotes({
@@ -42,6 +42,9 @@ export const defaultContentPageLayout: PageLayout = {
       limit: 5
     }))
   ],
+  afterBody: [
+    Component.MobileOnly(Component.Graph()),
+  ]
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
