@@ -53,7 +53,7 @@ I could also create links with other related notes, which generates a network of
 
 ![[Pasted image 20240729125532.png]]
 
-**Figure 1.** A graph view of all my notes (also seen in my [[content/index|homepage]]). Different colours represent different note types and subjects. Viewing it helps me see the boundaries of my thoughts and where they are approaching.
+**Figure 1.** *A graph view of all my notes (also seen in my [[content/index|homepage]]). Different colours represent different note types and subjects. Viewing it helps me see the boundaries of my thoughts and where they are approaching.*
 
 Finally, Forte (2022) believes the externalising, exploring, and connecting of ideas in new and unexpected ways made possible by writing can also spark creative insights and innovations.
 
