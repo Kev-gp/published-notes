@@ -1,4 +1,5 @@
 ---
+title: Why Write?
 aliases: 
 tags:
   - writing
