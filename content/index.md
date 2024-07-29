@@ -1,6 +1,4 @@
 ---
 title: My Second Brain
 ---
-## Introduction
-
-Testing
+![[Pasted image 20240729125532.png]]
