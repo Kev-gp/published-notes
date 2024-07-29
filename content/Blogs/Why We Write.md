@@ -7,7 +7,7 @@ date: 2024-07-29
 ---
 Sitting down at my wooden desk, I could vividly recall the rigorous and demanding process of composing essays at my school desk years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock gets louder in the background. I’m brought into a world of academic rigor, measuring every word used to produce a rational argument.
 
-My journal lay before me. The written words can now flow freely without restraint. I write because I want to and I can let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
+This is a stark contrast with the way I engage with my journal that lay before me. The written words flow freely without restraint. I write because I want to and I can let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
 
 My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read, the thought being just out of reach on the edge of my mind. Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp? Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
 
@@ -41,7 +41,7 @@ Writing also helps us reach a decision, be it for an essay, business, email, et 
 
 Fortunately, technology has a way of optimizing the way we write. One app that stood out from the rest is a digital note-taking tool called _Obsidian_ that I now use as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier, as placing my fingers onto the keyboard is efficient and seamless.
 
-I could also create links with other related notes, which generates a network of associated ideas that are easy to navigate. This is visually represented by the graph view function. As my notes grew, the graph started resembling a neural network, a web of knowledge that is an extension of my mind. Externalising, exploring, and connecting of ideas in new and unexpected ways made possible by digital writing can spark creative insights and innovations.
+I could also create links with other related notes, which generates a network of associated ideas that are easy to navigate. This is visually represented by the graph view function, similar to the one on this very same page. As my notes grew, the graph started resembling a neural network, a web of knowledge that is an extension of my mind. Externalising, exploring, and connecting of ideas in new and unexpected ways made possible by digital writing can spark creative insights and innovations.
 
 ![[Pasted image 20240729125532.png]]
 
@@ -59,7 +59,7 @@ When starting a new page in my journal, the first few lines are always planned. 
 
 ## Conclusion
 
-Writing is an incredibly simple task, requiring only pen and paper. Yet it surprises me to no end of its numerous benefits. Writing and thinking are one and the same. As much as we may like to think of ourselves as rational, there is often a lot of jumble and senseless rumble in our minds. Writing clarifies, and it deepens. It is the process of discovery and exploration, rather than capturing and explaining. It calms us and lifts the weight off our shoulders. And by becoming better listeners to ourselves through writing, we create a habit of mind that offers to understand the deeper parts of our soul. So let us pick up a pen and start writing.
+Writing is an incredibly simple task, requiring only pen and paper. Yet its numerous benefits surprises me to no end. Writing and thinking are one and the same. As much as we may like to think of ourselves as rational, there is often a lot of jumble and senseless rumble in our minds. Writing clarifies, and it deepens. It is the process of discovery and exploration, rather than capturing and explaining. It calms us and lifts the weight off our shoulders. And by becoming better listeners to ourselves through writing, we create a habit of mind that offers to understand the deeper parts of our soul. So let us pick up a pen and start writing.
 
 [^1]: Forte, T. (2022). _Building a second brain_. Profile Trade.
 [^2]: Neuroscientist Neil Levy, Oxford Handbook of Neuroethics; Richard Feynman; Benjamin Franklin.
