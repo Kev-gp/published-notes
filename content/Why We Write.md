@@ -28,7 +28,7 @@ I could also create links with other related notes, which generates a network of
 
 Figure 4: A local graph showing how one note (represented as nodes) is connected/related (represented as lines) to other notes.
 
-![[Pasted image 20240729124553.png]]
+![[Pasted image 20240729125532.png]]
 
 **Figure 5.** A graph view of all my notes. Different colours represent different note types and subjects. Viewing it helps me see the boundaries of my thoughts and where they are approaching.
 
