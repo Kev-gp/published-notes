@@ -7,7 +7,7 @@ date: 2024-07-29
 ---
 Sitting down at my wooden desk, I could vividly recall the rigorous and demanding process of composing essays at my school desk years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock gets louder in the background. I’m brought into a world of academic rigor, measuring every word used to produce a rational argument.
 
-This is a stark contrast with the way I engage with my journal that lay before me. The written words flow freely without restraint. I write because I want to and I can let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
+This is a stark contrast to the way I engage with my journal that lay before me. The written words flow freely without restraint. I write because I want to and I can let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
 
 My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read, the thought being just out of reach on the edge of my mind. Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp? Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
 
