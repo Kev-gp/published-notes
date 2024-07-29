@@ -37,7 +37,7 @@ Writing also helps us reach a decision, be it for an essay, business, email, et 
 > 
 > – Daniel Kahneman
 
-## The Power of Technology
+## The power of technology
 
 Fortunately, technology has a way of optimizing the way we write. One app that stood out from the rest is a digital note-taking tool called _Obsidian_ that I now use as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier, as placing my fingers onto the keyboard is efficient and seamless.
 
