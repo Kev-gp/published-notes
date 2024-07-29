@@ -1,30 +1,35 @@
 ---
 aliases: 
 tags: 
-draft: true
+draft: false
 date: 2024-07-29
 ---
-Figure 1: My daily journal.
+Sitting down before my wooden desk, I could vividly recall the rigorous and demanding process of composing essays at my school desk years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock gets louder in the background. I’m brought into a world of academic rigor, measuring every word used and replacing unintelligible ones with something more comprehensive to produce a rational argument.
 
-As the sun sets after yet another long day, I retreat to my wooden desk where my journal sits. The steady radiance of my lamp casts a bright light over it. With my door closed and the windows shut tight, I am left with the stillness of a silent room, accompanied only by my pen, an opened notebook, and a warm cup of tea by my side. A stark contrast to my rambunctious day, one could hear only the faint scratch of my pen on paper and the occasional rustle of the pages turning. I could feel my heart rate slowing down as I penned down my daily reflections.
-
-As I sat there, I could vividly recall the rigorous and demanding process of composing essays at my school desk years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock gets louder in the background. I’m brought into a world of academic rigor, measuring every word used and replacing unintelligible ones with something more comprehensive to produce a rational argument. But in the sanctuary of my journal, the words can flow freely without restraint. I write because I want to and I can let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
+My journal laid before me. The written words can now flow freely without restraint. I write because I want to and I can let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
 
 My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read, the thought being just out of reach on the edge of my mind. Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp? Nowadays my notebook acts as a trusty companion I carry with me everywhere I went, always there to capture fleeting thoughts and keep them safe until I could act on them.
 
-Figure 2: Some notes that I took in my journal.
+Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a diary for self-reflection, it’s in writing that I find relief, a way to organise my thoughts and emotions more effectively, and to make them permanent. Parsing through my notes I often wonder; how does writing shape the way we think and feel?
+
+## Writing for clarity
+
+> How do I know what I think till I see what I say?
+> - E. M. Forster
+
+Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It can make our intellectual endeavours possible[^1].
+
+## Writing for learning
 
 Fortunately, technology has a way of optimizing this process. One app that stood out from the rest is a note-taking tool called _Obsidian_ that I now use as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier, as placing my fingers onto the keyboard is efficient and seamless.
-
-Figure 3: My digitalised notes in _Obsidian._
 
 I could also create links with other related notes, which generates a network of associated ideas that are easy to navigate. This is visually represented by the graph view function. As my notes grew, the graph started resembling a neural network, a web of knowledge that is an extension of my mind.
 
 Figure 4: A local graph showing how one note (represented as nodes) is connected/related (represented as lines) to other notes.
 
-Figure 5: A graph view of all my notes. Different colours represent different note types and subjects. Viewing it helps me see the boundaries of my thoughts and where they are approaching.
+![[Pasted image 20240729120935.png]]
 
-Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a diary for self-reflection, it’s in writing that I find relief, a way to organise my thoughts and emotions more effectively, and to make them permanent. Parsing through my notes, I thus wonder: how does writing shape the way we think and feel?
+**Figure 5.** A graph view of all my notes. Different colours represent different note types and subjects. Viewing it helps me see the boundaries of my thoughts and where they are approaching.
 
 In his book _Building a Second Brain_, Tiago Forte (2022) emphasises the problem of information overload. There’s an excess of information, messages, things to do and to remember. Social media also aligns us towards whatever is new and popular. But with more information available than ever before, the more we find ourselves distracted and unproductive. By researching how the most prolific thinkers in the past approached this, Forte (2022) discovers they kept with them something in common: a “commonplace book”. More than just a diary to pour out personal thoughts and reflections, a commonplace book compiles external information that speaks to us, be it quotes, recipes, and various bits of advice and wisdom. What makes these commonplace books so effective? For Forte (2022), the simple act of penning things down is a way of taking a step back, slowing ourselves down, and creating a filter that stops our attention from being fully consumed. Writing also puts us in charge. Most of our information tend to come from an outside authority, such as schools that tell us what’s important. Through personal writing however, we get to decide to keep only those we find most meaningful. Finally, Forte (2022) believes the externalising, exploring, and connecting of ideas in new and unexpected ways made possible by writing can also spark creative insights and innovations.
 
@@ -38,6 +43,7 @@ Writing is an incredibly simple task, requiring only pen and paper. Yet it surpr
                                                                          
 **References**
 
-·         Forte, T. (2022). _Building a second brain_. Profile Trade.
+- Forte, T. (2022). _Building a second brain_. Profile Trade.
+- TED. (2015). Look deeper – write – the wonders of writing | Nicoletta Demetriou [Video]. YouTube. [https://www.youtube.com/watch?v=aTgPJQ9Dy7Q](https://www.youtube.com/watch?v=aTgPJQ9Dy7Q)
 
-·         TED. (2015). Look deeper – write – the wonders of writing | Nicoletta Demetriou [Video]. YouTube. [https://www.youtube.com/watch?v=aTgPJQ9Dy7Q](https://www.youtube.com/watch?v=aTgPJQ9Dy7Q)
+[^1]: Neuroscientist Neil Levy, Oxford Handbook of Neuroethics; Richard Feynman; Benjamin Franklin
