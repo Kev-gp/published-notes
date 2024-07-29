@@ -12,7 +12,7 @@ My small, unassuming notebook also serves a different purpose: notetaking. Not j
 
 Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a diary for self-reflection, it’s in writing that I find relief, a way to organise my thoughts and emotions more effectively, and to make them permanent. Parsing through my notes I often wonder; how does writing shape the way we think and feel?
 
-## For clarity
+## Writing for clarity
 
 > How do I know what I think till I see what I say?
 > 
@@ -20,7 +20,7 @@ Notebooks are versatile, be it in digital or physical form. A powerful assistant
 
 Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It can make our intellectual endeavours possible[^1].
 
-## For learning
+## Writing for learning
 
 Fortunately, technology has a way of optimizing this process. One app that stood out from the rest is a note-taking tool called _Obsidian_ that I now use as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier, as placing my fingers onto the keyboard is efficient and seamless.
 
