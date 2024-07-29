@@ -29,6 +29,8 @@ Writing further drives us to look deeper at those thoughts and search for other 
 > 
 > – E. M. Forster
 
+
+
 Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It can make our intellectual endeavours possible[^2].
 
 Writing also helps us reach a decision, be it for an essay, business, email, et cetera. Putting pen on paper is like creating a map that points us towards making certain resolutions.
