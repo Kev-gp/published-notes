@@ -9,17 +9,17 @@ Sitting down at my wooden desk, I could vividly recall the rigorous and demandin
 
 This is in stark contrast to the way I engage with my journal that lay before me. The written words flow freely without restraint. I write because I want to and I can let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
 
-My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read. Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp? Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
+My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read, which leads me to wonder; why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp? Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
 
-Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and to make them permanent. Parsing through my notes I often wonder; how does writing shape the way we think and feel?
+Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and make them permanent. Parsing through my notes I often wonder; how does writing shape the way we think and feel?
 
 ## Writing for productivity and learning
 
-Today we’re all facing the issue of information overload. There’s an excess of information, messages, things to do and to remember. Social media also aligns us towards whatever is new and popular. But with more information available than ever before, the more we find ourselves distracted and unproductive. In his book _Building a Second Brain_[^1], Tiago Forte discovers that the most prolific thinkers of the past often kept with them something in common: a “commonplace book”. More than just a diary to pour out personal thoughts and reflections, a commonplace book compiles external information that speaks to us, be it quotes, recipes, and various bits of advice and wisdom. 
+Today we’re all facing the issue of information overload. There’s an excess of information, messages, things to do and to remember. Social media also aligns us towards whatever is new and popular. But with more information available, the more we find ourselves distracted and unproductive. In his book _Building a Second Brain_[^1], Tiago Forte discovers that the most prolific thinkers of the past often kept with them something in common: a “commonplace book”. More than just a diary to pour out personal thoughts and reflections, a commonplace book compiles external information that speaks to us, be it quotes, recipes, and various bits of advice and wisdom. 
 
 What makes these commonplace books so effective? For Forte, the simple act of penning things down is a way of taking a step back, slowing ourselves down, and creating a filter that stops our attention from being fully consumed. Writing also puts us in charge. Most of our information tend to come from an outside authority like schools that tell us what’s important. Through personal writing however, we get to decide to keep only those we find most meaningful. 
 
-But to merely capture is insufficient. Writing is more of a technique for growing thoughts than harvesting them, and it is from this that new creative ideas and insights are generated. I believe this to be possible in the slow and contemplative approach of writing that encourages reviewing, constant editing, and pondering on the implications of ideas overtime. 
+But to merely capture is insufficient. Writing is more of a technique for growing thoughts than harvesting them, and it is from this that new creative ideas and insights are generated. I believe this to be possible in the slow and contemplative approach of writing that encourages reviewing, constant editing, and pondering on the implications of ideas overtime.
 
 ## Writing for clarity
 
@@ -39,9 +39,9 @@ Writing also helps us reach a decision, be it for an essay, business, email, et 
 
 ## The power of technology
 
-Fortunately, technology has a way of optimizing the way we write. One app that stood out from the rest is a digital note-taking tool called _Obsidian_ that I now use as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier, as placing my fingers onto the keyboard is efficient and seamless.
+Fortunately, technology has a way of optimizing the way we write. One app that stood out from the rest is a digital note-taking tool called _Obsidian_ that I now use as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier.
 
-I could also create links with other related notes, which generates a network of associated ideas that are easy to navigate. This is visually represented by the graph view function. As my notes grew, the graph started resembling a neural network, a web of knowledge that is an extension of my mind. Externalising, exploring, and connecting of ideas in new and unexpected ways made possible by digital writing can spark creative insights and innovations.
+I could also create links with other related notes, which generates a network of associated ideas that are easy to navigate. This is visually represented by the graph view function. As my notes continue to grow, the graph start resembling a neural network, a web of knowledge that is an extension of my mind. Externalising, exploring, and connecting of ideas in new and unexpected ways made possible by digital writing can spark creative insights and innovations.
 
 ![[Pasted image 20240729125532.png]]
 
