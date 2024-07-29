@@ -17,9 +17,12 @@ Notebooks are versatile, be it in digital or physical form. A powerful assistant
 
 Today we’re all facing the issue of information overload. There’s an excess of information, messages, things to do and to remember. Social media also aligns us towards whatever is new and popular. But with more information available, the more we find ourselves distracted and unproductive. In his book _Building a Second Brain_[^1], Tiago Forte discovers that the most prolific thinkers of the past often kept with them something in common: a “commonplace book”. More than just a diary to pour out personal thoughts and reflections, a commonplace book compiles external information that speaks to us, be it quotes, recipes, and various bits of advice and wisdom. 
 
+
 What makes these commonplace books so effective? For Forte, the simple act of penning things down is a way of taking a step back, slowing ourselves down, and creating a filter that stops our attention from being fully consumed. Writing also puts us in charge. Most of our information tend to come from an outside authority like schools that tell us what’s important. Through personal writing however, we get to decide to keep only those we find most meaningful. 
 
 But to merely capture is insufficient. Writing is more of a technique for growing thoughts than harvesting them, and it is from this that new creative ideas and insights are generated. I believe this to be possible in the slow and contemplative approach of writing that encourages reviewing, constant editing, and pondering on the implications of ideas overtime.
+
+![[Why We Write 2024-07-29 23.54.48.excalidraw]]
 
 ## Writing for clarity
 
@@ -28,8 +31,6 @@ Writing further drives us to look deeper at those thoughts and search for other 
 > How do I know what I think till I see what I say?
 > 
 > – E. M. Forster
-
-
 
 Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It can make our intellectual endeavours possible[^2].
 
