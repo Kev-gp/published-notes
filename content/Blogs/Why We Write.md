@@ -9,7 +9,7 @@ Sitting down at my wooden desk, I could vividly recall the rigorous and demandin
 
 This is in stark contrast to the way I engage with my journal that lay before me. The written words flow freely without restraint. I write because I want to and I can let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
 
-My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. Just out of reach on the edge of my mind, I’d often struggle to remember what I’ve read. Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp? Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
+My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read. Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp? Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
 
 Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and to make them permanent. Parsing through my notes I often wonder; how does writing shape the way we think and feel?
 
