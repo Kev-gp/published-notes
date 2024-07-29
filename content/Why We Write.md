@@ -15,7 +15,7 @@ Notebooks are versatile, be it in digital or physical form. A powerful assistant
 ## Writing for clarity
 
 > How do I know what I think till I see what I say?
-> - E. M. Forster
+> – E. M. Forster
 
 Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It can make our intellectual endeavours possible[^1].
 
@@ -39,8 +39,8 @@ The slow and measured practice of writing can also “preserve our mental health
 
 When starting a new page in my journal, the first few lines are always planned. I knew what I wanted to write about, and it was satisfying to fill up half the page rather quickly. But as time went on, I realized those lines could safely be discarded. The real insights are what remained after. Forte (2022) and Demetriou (2015) both speak of writing’s effectiveness in clearing the noise. We start writing about things already in our minds, but soon we get to what we _really_ want to write about. We transition from explaining ideas and events to exploring them, arriving at something we didn’t know was there. These could be undisclosed aspects of us, as Demetriou (2015) suggests, an experience familiar to me when penning down troubling experiences. As difficult as it is, the discovery and exploration in that moment of vulnerability can be conducive to our mental health. It can be a source of calm joy, when we let go of negative emotions, gain perspective, and become self-aware by putting our thoughts on paper.
 
-Writing is an incredibly simple task, requiring only pen and paper. Yet it surprises me to no end the numerous benefits as shared by my two sources. Writing and thinking are one and the same. As much as we may like to think of ourselves as rational, there is often a lot of jumble and senseless rumble in our minds. Writing clarifies, and it deepens. It is the process of discovery and exploration, rather than capturing and explaining. It calms us and lifts the weight off our shoulders. And by becoming better listeners to ourselves through writing, we create a habit of mind that offers to understand the deeper parts of our soul. So let us pick up a pen and start writing.
-                                                                         
+Writing is an incredibly simple task, requiring only pen and paper. Yet it surprises me to no end the numerous benefits as shared by my two sources. Writing and thinking are one and the same. As much as we may like to think of ourselves as rational, there is often a lot of jumble and senseless rumble in our minds. Writing clarifies, and it deepens. It is the process of discovery and exploration, rather than capturing and explaining. It calms us and lifts the weight off our shoulders. And by becoming better listeners to ourselves through writing, we create a habit of mind that offers to understand the deeper parts of our soul. So let us pick up a pen and start writin
+
 **References**
 
 - Forte, T. (2022). _Building a second brain_. Profile Trade.
