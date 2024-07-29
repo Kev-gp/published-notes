@@ -15,6 +15,7 @@ Notebooks are versatile, be it in digital or physical form. A powerful assistant
 ## Writing for clarity
 
 > How do I know what I think till I see what I say?
+> 
 > – E. M. Forster
 
 Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It can make our intellectual endeavours possible[^1].
