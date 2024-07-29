@@ -22,15 +22,18 @@ Write so we know how much we know and do not know. Externalize our ideas and mak
 
 ## Writing for learning
 
+
+
+
+## The Power of Technology
+
 Fortunately, technology has a way of optimizing this process. One app that stood out from the rest is a note-taking tool called _Obsidian_ that I now use as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier, as placing my fingers onto the keyboard is efficient and seamless.
 
 I could also create links with other related notes, which generates a network of associated ideas that are easy to navigate. This is visually represented by the graph view function. As my notes grew, the graph started resembling a neural network, a web of knowledge that is an extension of my mind.
 
-Figure 4: A local graph showing how one note (represented as nodes) is connected/related (represented as lines) to other notes.
-
 ![[Pasted image 20240729125532.png]]
 
-**Figure 5.** A graph view of all my notes. Different colours represent different note types and subjects. Viewing it helps me see the boundaries of my thoughts and where they are approaching.
+**Figure 1.** A graph view of all my notes (also seen in the home page). Different colours represent different note types and subjects. Viewing it helps me see the boundaries of my thoughts and where they are approaching.
 
 In his book _Building a Second Brain_, Tiago Forte (2022) emphasises the problem of information overload. There’s an excess of information, messages, things to do and to remember. Social media also aligns us towards whatever is new and popular. But with more information available than ever before, the more we find ourselves distracted and unproductive. By researching how the most prolific thinkers in the past approached this, Forte (2022) discovers they kept with them something in common: a “commonplace book”. More than just a diary to pour out personal thoughts and reflections, a commonplace book compiles external information that speaks to us, be it quotes, recipes, and various bits of advice and wisdom. What makes these commonplace books so effective? For Forte (2022), the simple act of penning things down is a way of taking a step back, slowing ourselves down, and creating a filter that stops our attention from being fully consumed. Writing also puts us in charge. Most of our information tend to come from an outside authority, such as schools that tell us what’s important. Through personal writing however, we get to decide to keep only those we find most meaningful. Finally, Forte (2022) believes the externalising, exploring, and connecting of ideas in new and unexpected ways made possible by writing can also spark creative insights and innovations.
 
