@@ -32,16 +32,13 @@ But to merely capture is insufficient. Writing is more of a technique for growin
 
 Writing further drives us to look deeper at those thoughts and search for other related ideas. It compels us to reason and to give reasons, to strengthen what’s weak and reframe what’s unsound.
 
-
 > How do I know what I think till I see what I say?
 > 
 > – E. M. Forster
 
-
 Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It makes our intellectual endeavours possible[^2].
 
 Writing also helps us reach a decision, be it for an essay, business, email, and so on. Putting pen on paper is like creating a map that points us towards making certain resolutions.
-
 
 > People don't choose between things; they choose between descriptions of things.
 > 
