@@ -48,7 +48,7 @@ Writing also helps us reach a decision, be it for an essay, business, email, and
 
 Fortunately, technology has a way of optimizing the way we write. *Obsidian* stood out to me from other digital note-taking tools as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier.
 
-I could also create links with other related notes, which generates a network of associated ideas that are easy to navigate. This is visually represented by the graph view function. As my notes continue to grow, the graph start resembling a neural network, a web of knowledge that is an extension of my mind. Externalising, exploring, and connecting ideas in new and unexpected ways made possible by digital writing can spark creative insights and innovations.
+I could create links with other related notes, generating a network of associated ideas that are easy to navigate. This is visually represented by the graph view function. As my notes continue to grow, the graph start resembling a neural network, a web of knowledge that is an extension of my mind. Externalising, exploring, and connecting ideas in new and unexpected ways made possible by digital writing can spark creative insights and innovations.
 
 ![[Pasted image 20240729125532.png]]
 
@@ -56,7 +56,7 @@ I could also create links with other related notes, which generates a network of
 
 ## Writing as therapy
 
-The slow and measured practice of writing can also preserve our mental health. Indeed, writing is more than just an intellectual activity. Life writer and researcher Nicoletta Demetriou in her TED talk[^3] highlights how our busy minds resemble a congested highway, with hundreds of cars passing through it daily. In the same vein as Forte, writing aids in removing the extra noise, turning that busy highway into a rural street. 
+The slow and measured practice of writing also preserves our mental health. Indeed, writing is more than just an intellectual activity. Life writer and researcher Nicoletta Demetriou in her TED talk[^3] highlights how our busy minds resemble a congested highway, with hundreds of cars passing through it daily. In the same vein as Forte, writing aids in removing the extra noise, turning that busy highway into a rural street. 
 
 She then explores the deeper wonders of writing by emphasising its transformative power in helping writers achieve self-discovery and personal growth, particularly by “writing without thinking”. That is, 
 
@@ -64,7 +64,9 @@ She then explores the deeper wonders of writing by emphasising its transformativ
 
 This enables our subconscious to guide us and tap into our innermost thoughts and emotions. For some, it can offer surprising insights and help overcome creative blocks and limitations. Writing before a high-stress event, for example, can enhance performance by loosening up people's *working memory* in their prefrontal cortex[^4].
 
-For others however, it can be understandably frightening. Rendering deeply rooted thoughts into words can uncover something we may not want to hear. But as Demetriou argues, this revealing process is precisely what associates writing with therapy, so much so that the term “writing therapy” has long since been a part of the psychological field.
+For others however, it can be understandably frightening. Rendering deeply rooted thoughts into words can uncover something we may not want to hear. But as Demetriou argues, this revealing process is precisely what associates writing with therapy, so much so that the term “writing therapy” has long since been a part of psychology.
+
+---
 
 When starting a new page in my journal, the first few lines are always planned. I knew what I wanted to write about and could fill up half the page rather quickly. But as time went on, I realized those lines could be safely discarded. The real insights are what remained after. Forte and Demetriou both speak of writing’s effectiveness in clearing the noise. We start writing about things already in our minds, but soon we get to what we _really_ want to write about. We transition from explaining ideas and events to exploring them, arriving at something we didn’t know was there. These could be undisclosed aspects of us, as Demetriou suggests, an experience familiar to me when penning down troubling experiences. As difficult as it is, the discovery and exploration in that moment of vulnerability can be conducive to our mental health. It can be a source of calm joy, when we let go of negative emotions, gain perspective, and become self-aware by putting our thoughts on paper.
 
