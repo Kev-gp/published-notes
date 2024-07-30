@@ -87,3 +87,5 @@ export default ((opts?: Partial<Options>) => {
   const layout = opts?.layout ?? defaultOptions.layout
   return layout === "modern" ? TableOfContents : LegacyTableOfContents
 }) satisfies QuartzComponentConstructor
+
+title: "Outline 2"
