@@ -33,11 +33,11 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
     Component.MobileOnly(Component.RecentNotes({
       title: "Recent Writing",
       limit: 5
     })),
+    Component.Backlinks(),
   ],
 }
 
