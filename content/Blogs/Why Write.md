@@ -48,11 +48,15 @@ Writing also helps us reach a decision, be it for an essay, business, email, and
 
 Fortunately, technology has a way of optimizing the way we write. *Obsidian* stood out to me from other digital note-taking tools as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier.
 
+![[Screenshot 2024-07-30 223043.png]]
+
+***Figure 1.** An example of Obsidian’s user interface.*
+
 I could create links with other related notes, generating a network of associated ideas that are easy to navigate. This is visually represented by the graph view function. As my notes continue to grow, the graph start resembling a neural network, a web of knowledge that is an extension of my mind. Externalising, exploring, and connecting ideas in new and unexpected ways made possible by digital writing can spark creative insights and innovations.
 
 ![[Pasted image 20240729125532.png]]
 
-***Figure 1.** A graph view of all my notes (also seen in my homepage). Different colours represent different note types and subjects. Helps me see the boundaries of my thoughts and where they are approaching.*
+***Figure 2.** A graph view of all my notes (also seen in my homepage). Different colours represent different note types and subjects. Helps me see the boundaries of my thoughts and where they are approaching.*
 
 ## Writing as therapy
 
