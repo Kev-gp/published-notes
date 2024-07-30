@@ -8,17 +8,17 @@ date: 2024-07-29
 ---
 Sitting down at my wooden desk, I could vividly recall the rigorous and demanding process of composing essays at my school table years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock gets louder in the background. I’m brought into a world of academic rigor, measuring every word used to produce a rational argument.
 
-Looking at my journal that lay before me, the contrast is striking. The written words flow freely without restraint. I write because I want to and I can let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
+Looking at my journal that lay before me, the contrast is striking. The written words flow freely without restraint. I write because I want to and I let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
 
-My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read, which makes me wonder:
+My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read, which makes me ask:
 
 > Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp?
 
 Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
 
-Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and make them permanent. Parsing through my notes I ask; how does writing shape the way we think and feel?
+Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and make them permanent. Parsing through my notes I wonder; how does writing shape the way we think and feel?
 
-## Writing for productivity and learning
+## Writing for productivity
 
 We’re all facing the issue of information overload. There’s an excess of information, messages, things to do and to remember. Social media also aligns us towards whatever is new and popular. But with more information available, the more we find ourselves distracted and unproductive.
 
@@ -36,7 +36,7 @@ Writing further drives us to look deeper at those thoughts and search for other 
 > 
 > – E. M. Forster
 
-Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It can make our intellectual endeavours possible[^2].
+Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It makes our intellectual endeavours possible[^2].
 
 Writing also helps us reach a decision, be it for an essay, business, email, and so on. Putting pen on paper is like creating a map that points us towards making certain resolutions.
 
@@ -46,7 +46,7 @@ Writing also helps us reach a decision, be it for an essay, business, email, and
 
 ## The power of technology
 
-Fortunately, technology has a way of optimizing the way we write. One app that stood out from the rest is a digital note-taking tool called _Obsidian_ that I now use as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier.
+Fortunately, technology has a way of optimizing the way we write. *Obsidian* stood out to me from other digital note-taking tools as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier.
 
 I could also create links with other related notes, which generates a network of associated ideas that are easy to navigate. This is visually represented by the graph view function. As my notes continue to grow, the graph start resembling a neural network, a web of knowledge that is an extension of my mind. Externalising, exploring, and connecting ideas in new and unexpected ways made possible by digital writing can spark creative insights and innovations.
 
@@ -58,11 +58,15 @@ I could also create links with other related notes, which generates a network of
 
 The slow and measured practice of writing can also preserve our mental health. Indeed, writing is more than just an intellectual activity. Life writer and researcher Nicoletta Demetriou in her TED talk[^3] highlights how our busy minds resemble a congested highway, with hundreds of cars passing through it daily. In the same vein as Forte, writing aids in removing the extra noise, turning that busy highway into a rural street. 
 
-She then explores the deeper wonders of writing by emphasising its transformative power in helping writers achieve self-discovery and personal growth, particularly by “writing without thinking”. That is, to write spontaneously and without any preconceived notions. This enables our subconscious to guide us and tap into our innermost thoughts and emotions. For some, it can offer surprising insights and help overcome creative blocks and limitations. Writing before a high-stress event, for example, can enhance performance by loosening up people's *working memory* in their prefrontal cortex[^4].
+She then explores the deeper wonders of writing by emphasising its transformative power in helping writers achieve self-discovery and personal growth, particularly by “writing without thinking”. That is, 
 
-For others however, it can be frightening. Rendering deeply rooted thoughts into words can uncover something we may not want to hear. But as Demetriou argues, this revealing process is precisely what associates writing with therapy, so much so that the term “writing therapy” has long since been a part of psychology.
+> to write spontaneously and without any preconceived notions.
 
-When starting a new page in my journal, the first few lines are always planned. I knew what I wanted to write about, and it was satisfying to fill up half the page rather quickly. But as time went on, I realized those lines could safely be discarded. The real insights are what remained after. Forte and Demetriou both speak of writing’s effectiveness in clearing the noise. We start writing about things already in our minds, but soon we get to what we _really_ want to write about. We transition from explaining ideas and events to exploring them, arriving at something we didn’t know was there. These could be undisclosed aspects of us, as Demetriou suggests, an experience familiar to me when penning down troubling experiences. As difficult as it is, the discovery and exploration in that moment of vulnerability can be conducive to our mental health. It can be a source of calm joy, when we let go of negative emotions, gain perspective, and become self-aware by putting our thoughts on paper.
+This enables our subconscious to guide us and tap into our innermost thoughts and emotions. For some, it can offer surprising insights and help overcome creative blocks and limitations. Writing before a high-stress event, for example, can enhance performance by loosening up people's *working memory* in their prefrontal cortex[^4].
+
+For others however, it can be understandably frightening. Rendering deeply rooted thoughts into words can uncover something we may not want to hear. But as Demetriou argues, this revealing process is precisely what associates writing with therapy, so much so that the term “writing therapy” has long since been a part of the psychological field.
+
+When starting a new page in my journal, the first few lines are always planned. I knew what I wanted to write about and could fill up half the page rather quickly. But as time went on, I realized those lines could be safely discarded. The real insights are what remained after. Forte and Demetriou both speak of writing’s effectiveness in clearing the noise. We start writing about things already in our minds, but soon we get to what we _really_ want to write about. We transition from explaining ideas and events to exploring them, arriving at something we didn’t know was there. These could be undisclosed aspects of us, as Demetriou suggests, an experience familiar to me when penning down troubling experiences. As difficult as it is, the discovery and exploration in that moment of vulnerability can be conducive to our mental health. It can be a source of calm joy, when we let go of negative emotions, gain perspective, and become self-aware by putting our thoughts on paper.
 
 ## Conclusion
 
