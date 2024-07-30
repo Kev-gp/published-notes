@@ -5,7 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.MobileOnly(Component.RecentNotes({
+      title: "Recent Writing",
+      limit: 5
+    })),
+  ],
   footer: Component.Footer({
     links: {},
   }),
@@ -35,10 +40,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.MobileOnly(Component.Explorer()),
-    Component.MobileOnly(Component.RecentNotes({
-      title: "Recent Writing",
-      limit: 5
-    })),
   ],
 }
 

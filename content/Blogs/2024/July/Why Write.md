@@ -16,7 +16,7 @@ My small, unassuming notebook also serves a different purpose: notetaking. Not j
 
 Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
 
-Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and make them permanent. Parsing through my notes I often ask; how does writing shape the way we think and feel?
+Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and make them permanent. Parsing through my notes I ask; how does writing shape the way we think and feel?
 
 ## Writing for productivity and learning
 
