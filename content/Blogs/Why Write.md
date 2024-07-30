@@ -4,7 +4,7 @@ aliases:
 tags:
   - writing
 draft: false
-date: 2024-07-29
+date: 2024-07-30
 ---
 Sitting down at my wooden desk, I could vividly recall the rigorous and demanding process of composing essays at my school table years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock gets louder in the background. I’m brought into a world of academic rigor, measuring every word used to produce a rational argument.
 
