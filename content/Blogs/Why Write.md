@@ -12,7 +12,7 @@ Looking at my journal that lay before me, the contrast is striking. The written 
 
 My small, unassuming notebook also serves to take down notes. I’d often struggle to remember whatever I’ve read or listened to, which makes me ask:
 
-> Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp?
+> *Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp?*
 
 Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
 
@@ -32,17 +32,17 @@ But to merely capture is insufficient. Writing is more of a technique for growin
 
 Writing further drives us to look deeper at those thoughts and search for other related ideas. It compels us to reason and to give reasons, to strengthen what’s weak and reframe what’s unsound.
 
-> How do I know what I think till I see what I say?
+> *How do I know what I think till I see what I say?*
 > 
-> – E. M. Forster
+> *– E. M. Forster*
 
 Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It makes our intellectual endeavours possible[^2].
 
 Writing also helps us reach a decision, be it for an essay, business, email, and so on. Putting pen on paper is like creating a map that points us towards making certain resolutions.
 
-> People don't choose between things; they choose between descriptions of things.
+> *People don't choose between things; they choose between descriptions of things.*
 > 
-> – Daniel Kahneman
+> *– Daniel Kahneman*
 
 ## The power of digital note-taking
 
@@ -60,9 +60,7 @@ The slow and measured practice of writing also preserves our mental health. Inde
 
 She then explores the deeper wonders of writing by emphasising its transformative power in helping writers achieve self-discovery and personal growth, particularly by “writing without thinking”. That is, 
 
-
-> to write spontaneously and without any preconceived notions.
-
+> *to write spontaneously and without any preconceived notions.*
 
 This enables our subconscious to guide us and tap into our innermost thoughts and emotions. For some, it can offer surprising insights and help overcome creative blocks and limitations. Writing before a high-stress event, for example, can enhance performance by loosening up people's *working memory* in their prefrontal cortex[^4].
 
