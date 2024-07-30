@@ -36,7 +36,7 @@ export default {
       createdWith: "Created with",
     },
     graph: {
-      title: "Topology of Thoughts",
+      title: "Graph View",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
-      title: "Outline",
+      title: "Table of Contents",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,
