@@ -10,9 +10,9 @@ Sitting down at my wooden desk, I could vividly recall the rigorous and demandin
 
 Looking at my journal that lay before me, the contrast is striking. The written words flow freely without restraint. I write because I want to and I can let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
 
-My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read, and so I wonder:
+My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read, which makes me wonder:
 
-> why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp?
+> Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp?
 
 Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
 
