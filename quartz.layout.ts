@@ -18,7 +18,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.MobileOnly(Component.TableOfContents()),
     Component.MobileOnly(Component.Spacer()),
   ],
   left: [
@@ -34,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.TableOfContents(),
     Component.Backlinks(),
     Component.MobileOnly(Component.RecentNotes({
       title: "Recent Writing",
