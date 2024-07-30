@@ -10,13 +10,13 @@ Sitting down at my wooden desk, I could vividly recall the rigorous and demandin
 
 Looking at my journal that lay before me, the contrast is striking. The written words flow freely without restraint. I write because I want to and I let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
 
-My small, unassuming notebook also serves a different purpose: notetaking. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read, which makes me ask:
+My small, unassuming notebook also serves to take down notes. Not just notes from lectures but books, videos, and podcasts I find online. I’d often struggle to remember what I’ve read, which makes me ask:
 
 > Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp?
 
 Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
 
-Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and make them permanent. Parsing through my notes I wonder; how does writing shape the way we think and feel?
+Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and make them permanent. Parsing through my notes I sometimes wonder; how does writing shape the way we think and feel?
 
 ## Writing for productivity
 
@@ -32,19 +32,22 @@ But to merely capture is insufficient. Writing is more of a technique for growin
 
 Writing further drives us to look deeper at those thoughts and search for other related ideas. It compels us to reason and to give reasons, to strengthen what’s weak and reframe what’s unsound.
 
+
 > How do I know what I think till I see what I say?
 > 
 > – E. M. Forster
+
 
 Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It makes our intellectual endeavours possible[^2].
 
 Writing also helps us reach a decision, be it for an essay, business, email, and so on. Putting pen on paper is like creating a map that points us towards making certain resolutions.
 
+
 > People don't choose between things; they choose between descriptions of things.
 > 
 > – Daniel Kahneman
 
-## The power of technology
+## The power of digital note-taking
 
 Fortunately, technology has a way of optimizing the way we write. *Obsidian* stood out to me from other digital note-taking tools as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier.
 
@@ -60,17 +63,19 @@ The slow and measured practice of writing also preserves our mental health. Inde
 
 She then explores the deeper wonders of writing by emphasising its transformative power in helping writers achieve self-discovery and personal growth, particularly by “writing without thinking”. That is, 
 
+
 > to write spontaneously and without any preconceived notions.
+
 
 This enables our subconscious to guide us and tap into our innermost thoughts and emotions. For some, it can offer surprising insights and help overcome creative blocks and limitations. Writing before a high-stress event, for example, can enhance performance by loosening up people's *working memory* in their prefrontal cortex[^4].
 
 For others however, it can be understandably frightening. Rendering deeply rooted thoughts into words can uncover something we may not want to hear. But as Demetriou argues, this revealing process is precisely what associates writing with therapy, so much so that the term “writing therapy” has long since been a part of psychology.
 
-When starting a new page in my journal, the first few lines are always planned. I knew what I wanted to write about and could fill up half the page rather quickly. But as time went on, I realized those lines could be safely discarded. The real insights are what remained after. Forte and Demetriou both speak of writing’s effectiveness in clearing the noise. We start writing about things already in our minds, but soon we get to what we _really_ want to write about. We transition from explaining ideas and events to exploring them, arriving at something we didn’t know was there. These could be undisclosed aspects of us, as Demetriou suggests, an experience familiar to me when penning down troubling experiences. As difficult as it is, the discovery and exploration in that moment of vulnerability can be conducive to our mental health. It can be a source of calm joy, when we let go of negative emotions, gain perspective, and become self-aware by putting our thoughts on paper.
+When starting a new page in my journal, the first few lines are always planned. I knew what I wanted to write about and could fill up half the page rather quickly. But as time went on, I realized most those lines could be safely discarded. The real insights are what remained after. Forte and Demetriou both speak of writing’s effectiveness in clearing the noise. We start writing about things already in our minds, but soon we get to what we _really_ want to write about. We transition from explaining ideas to exploring them, arriving at something we didn’t know was there. These could be undisclosed aspects of us, as Demetriou suggests, an experience familiar to me when penning down troubling experiences. As difficult as it is, the discovery and exploration in that moment of vulnerability can be conducive to our mental health. It can be a source of calm joy, when we let go of negative emotions, gain perspective, and become self-aware by putting our thoughts on paper.
 
 ## Conclusion
 
-Writing is an incredibly simple task, requiring only pen and paper. Yet its numerous benefits surprises me to no end. Writing and thinking are one and the same. As much as we may like to think of ourselves as rational, there is often a lot of jumble and senseless rumble in our minds. Writing clarifies, and it deepens. It is the process of discovery and exploration, rather than capturing and explaining. It calms us and lifts the weight off our shoulders. And by becoming better listeners to ourselves through writing, we create a habit of mind that offers to understand the deeper parts of our soul. So let us pick up a pen and start writing.
+Writing is an incredibly simple task, requiring only pen and paper. Yet its numerous benefits surprises me to no end. Writing and thinking are one and the same. As much as we may like to think of ourselves as rational, there is often a lot of jumble and senseless rumble in our minds. Writing clarifies those, and it deepens. It becomes a process of discovery and exploration, rather than capturing and explaining. It calms us and lifts the weight off our shoulders. And it allows us to become better listeners to ourselves, creating a habit of mind that offers to understand the deeper parts of our soul. So let us pick up a pen and start writing.
 
 [^1]: Forte, T. (2022). _Building a second brain_. Profile Trade.
 [^2]: Neuroscientist Neil Levy, Oxford Handbook of Neuroethics; Richard Feynman; Benjamin Franklin.
