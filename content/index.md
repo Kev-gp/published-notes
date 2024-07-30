@@ -2,6 +2,7 @@
 title: My Second Brain
 aliases:
   - homepage
+date: 2024-07-29
 ---
 ![[Pasted image 20240729125532.png]]
 
