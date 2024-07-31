@@ -122,7 +122,7 @@ After which, if it is able to develop toward becoming a mature member of its spe
 
 ## Expert opinions unveiled
 
-Putting it altogether, these explains why plenty of biologists (particularly embryologists) and philosophers support the notion that the unborn are, at the very least, biological human beings:
+Putting it altogether, these explain why plenty of biologists (particularly embryologists) and philosophers support the notion that the unborn are, at the very least, biological human beings:
 
 > Although human life is a continuous process, fertilization is a critical landmark because, under ordinary circumstances, a new, genetically distinct human organism is thereby formed
 > 
