@@ -12,6 +12,6 @@ The graph above shows every individual note I’ve made since 2021 in the digita
 
 This site is where I share some of those notes that I found to be really insightful and conducive to my intellectual journey. Hopefully you’ll find them to be just as interesting :)
 
-See [[content/Blogs/index|My Blogs]].
+See [[content/Blogs/index/|My Blogs]].
 
 **Note.** Site is still very much a WIP.
