@@ -21,7 +21,7 @@ I suspect much of the confusion and difficulty surrounding this topic falls on w
 > 
 > – Greg Koukl, *Precious Unborn Human Persons*
 
-But as I will try to show, pro-lifers can in fact make an argument based on biological definitions that deems the unborn to be biological human beings. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood, but I'll first address the skeptics who do not take a position on abortion since they seem to think "we do not really know when life begins."
+But as I will try to show, pro-lifers can in fact show the unborn are biological human beings founded on *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood, but I'll first address the skeptics who do not take a position on abortion since they seem to think "we do not really know when life begins."
 
 **Remark.** Much of the arguments laid forth are summarised from the book *Persuasive Pro-Life* by Trent Horn, and some others are my personal responses to arguments that people shared with me in the past. 
 
@@ -110,15 +110,15 @@ After which, if it is able to develop toward becoming a mature member of its spe
 
 > [!question]- What about *parthenogenesis*?
 > 
-> A friend of mine once argued that an egg cell can in fact develop into a mature human being through a process known as *parthenogenesis*. It refers to the development of an unfertilised female sex cell without any male contribution. This certainly does happen for some plants, insects, and even lizards, and explains some of the asexual reproduction that occurs among them. He pointed to the following article as an example for human beings[^3]:
+> A friend of mine once argued that an egg cell can in fact develop into a mature human being through a process known as *parthenogenesis*. It is the development of an unfertilised female sex cell without any male contribution. This certainly does happen for some plants, insects, and even lizards, and explains some of the asexual reproduction that occurs among them. He pointed to the following article as an example for human beings[^3]:
 > 
 > ![[Pasted image 20240731123036.png]]
 > 
-> But the idea that there was no sperm involved in creating the boy is simply not true. The boy resulting from a "partial parthenogenesis" where the egg, which did self-activated (cell division) itself, was later fertilised by a sperm cell early in the development.
+> But the idea that there was no sperm involved is simply not true. The boy resulted from a "partial parthenogenesis" where the egg, which did self-activate (cell division) itself, was later fertilised by a sperm cell early in the development.
 > 
 > ![[Pasted image 20240731123134.png]]
 > 
-> This explains why the boy has Y chromosome material in some places and only X chromosome material in others. Even if the sperm cell did not infiltrate in the first place, the egg cell only ends as a type of benign tumour called an *ovarian teratoma*[^4]. 
+> This explains why the boy has Y chromosome material in some places and X chromosome material in others. Even if the sperm cell did not infiltrate in the first place, the egg cell would only end up as a type of benign tumour, called an *ovarian teratoma*[^4]. 
 
 ## Expert opinions unveiled
 
