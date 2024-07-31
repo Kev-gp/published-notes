@@ -114,7 +114,7 @@ After which, if it is able to develop toward becoming a mature member of its spe
 > 
 > ![[Pasted image 20240731123036.png]]
 > 
-> But the idea that there was no sperm involved is simply not true. The boy resulted from a "partial parthenogenesis" where the egg, which did self-activate (cell division) itself, was later fertilised by a sperm cell early in the development.
+> But the idea that there was no sperm involved is simply not true. The boy resulted from a "partial parthenogenesis" where the egg, which did self-activate (cell divide) itself, was later fertilised by a sperm cell early in the development.
 > 
 > ![[Pasted image 20240731123134.png]]
 > 
