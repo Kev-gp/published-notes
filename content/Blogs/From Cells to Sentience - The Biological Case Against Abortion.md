@@ -15,13 +15,13 @@ Abortion is also an interesting one to take on since the stakes involved are exc
 1. If pro-choice advocates are right and abortion is merely harmless surgery, then pro-lifers unnecessarily oppress women and are falsely accusing them of homicide
 2. But if they're wrong and abortion does end the life of a human being, then pro-choice advocates are guilty of defending the killing of millions of human beings
 
-I suspect much of the confusion and difficulty surrounding this topic falls on whether we can truly ascertain what the unborn truly are. Many skeptics have frequently pointed this out. As Greg Koukl writes,
+I suspect much of the confusion and difficulty surrounding this topic falls on whether we can truly ascertain what the unborn truly are. Many skeptics have pointed this out. As Greg Koukl writes,
 
 > If the unborn is not a human person, no justification for abortion is necessary. However, if the unborn is a human person, no justification for abortion is adequate.
 > 
 > – Greg Koukl, *Precious Unborn Human Persons*
 
-But as I will try to show, pro-lifers can in fact show the unborn are biological human beings founded on *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood, but I'll first address the skeptics who do not take a position on abortion since they seem to think "we do not really know when life begins."
+But as I will try to show, pro-lifers can in fact argue that the unborn are in fact biological human beings, based upon *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood. I'll first address the skeptics unwilling to take a position on abortion, who think that "we do not really know when life begins."
 
 **Remark.** Much of the arguments laid forth are summarised from the book *Persuasive Pro-Life* by Trent Horn, and some others are my personal responses to arguments that people shared with me in the past. 
 
