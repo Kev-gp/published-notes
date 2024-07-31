@@ -71,14 +71,14 @@
 
   &[data-callout="question"] {
     --color: #86a5b9;
-    --border: #7b97aa;
-    --bg: #222225;
+    --border: #dba64244;
+    --bg: #dba64210;
     --callout-icon: var(--callout-icon-question);
   }
 
   &[data-callout="warning"] {
-    --color: #db8942;
-    --border: #db894244;
+    --color: #86a5b9;
+    --border: #7b97aa;
     --bg: #db894210;
     --callout-icon: var(--callout-icon-warning);
   }
