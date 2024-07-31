@@ -150,6 +150,8 @@ We also have one of the strongest pro-choice advocate, Peter Singer, that was qu
 > 
 > – Peter Singer, *Practical Ethics, 3rd Edition* (p. 73)
 
+And many more secular and pro-choice sources can be found [here](https://www.epm.org/resources/2011/Apr/27/when-does-life-begin-quotes-many-sources/).
+
 ## The road ahead for pro-choice advocacy
 
 While many tend to concede these biological facts, note also the implicit assumption being made here; that we ought to attribute moral value equally to all biological human beings. For people such as Peter Singer, this was his line of attack as he writes:
