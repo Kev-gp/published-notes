@@ -23,7 +23,7 @@ I suspect much of the confusion and difficulty surrounding this topic falls on w
 
 But as I will try to show, pro-lifers can in fact argue that the unborn are in fact biological human beings, based upon *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood. I'll first address the skeptics unwilling to take a position on abortion, who think that "we do not really know when life begins."
 
-**Remark.** Much of the arguments laid forth are summarised from the book *Persuasive Pro-Life* by Trent Horn, and some others are my personal responses to arguments that people shared with me in the past. 
+**Remark.** Much of the arguments laid forth were inspired from the book *Persuasive Pro-Life* by Trent Horn, and some others are my personal responses to arguments that people shared with me in the past. 
 
 Now on to biology…
 
