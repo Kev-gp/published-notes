@@ -43,7 +43,7 @@ Pro-choice advocates tend to imply that the unborn are non-living things when th
 
 But they are alive since they are receiving nutrients from the mother that causes the fetus to grow via cellular reproduction. Cellular growth is an important criteria, for it explains why we consider plants and animals to be alive. It also distinguishes us from the dead, for they lack "organic unity" and start decaying rather than continuing to grow. It's also why we consider those who are brain-dead to be "legally dead", for the same reason that their body starts decaying.
 
-> [!question]- But the unborn can't survive outside the womb?
+> [!question]- But the unborn can't grow (and thus survive) outside the womb?
 > This merely shows that the unborn are alive in certain places, just as we adult humans can only be alive in certain places (not in space, volcano, etc.).
 
 Another way of showing this is to take the contrapositive and ask "what does abortion do to the fetus?" Ultimately, it leads to the death of the fetus. But if it dies, surely it'd have to be alive at some point, would it not?
