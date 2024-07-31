@@ -157,7 +157,7 @@ While many tend to concede these biological facts, note also the implicit assump
 
 > The solution, however, is not to accept the pro-life view that the fetus is a human being with the same moral status as yours or mine. The solution is the very opposite: to abandon the idea that all human life is of equal worth[^6].
 
-A dangerous track to go down on, but this puts pro-lifers in a favourable position, for the burden of proof then shifts over to the pro-choice advocate to show why certain differences between the born and unborn necessitates attributing unequal moral status. If they are unable to, it'd parallel oppressing people based on morally irrelevant biological traits such as race and gender. This brings us to their *philosophical* definition of what constitutes human beings, and also where the real abortion debate really lies.
+A dangerous track to go down on, but this puts pro-lifers in a favourable position, for the burden of proof then shifts over to pro-choice advocates to show why certain differences between the born and unborn necessitates attributing unequal moral status. If they are unable to, it'd parallel oppressing people based on morally irrelevant biological traits such as race and gender. This brings us to their *philosophical* definition of what constitutes human beings, and also where the real abortion debate really lies.
 
 [^1]: [Down Syndrome (for Parents) | Nemours KidsHealth](https://kidshealth.org/en/parents/down-syndrome.html#:~:text=In%20most%20cases%20of%20Down,21%20attaches%20to%20another%20chromosome.)
 [^2]: [Turner Syndrome (for Parents) | Nemours KidsHealth](https://kidshealth.org/en/parents/turner.html#:~:text=To%20diagnose%20Turner%20syndrome%2C%20doctors,instead%20of%20the%20usual%2046.)
