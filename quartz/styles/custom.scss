@@ -68,8 +68,8 @@ h6 {
 
 .callout {
   &[data-callout="question"] {
-    --color: 123, 151, 170;
-    --border: 123, 151, 170;
-    --bg: 123, 151, 170;
+    --color: rgba(123, 151, 170);
+    --border: rgba(123, 151, 170);
+    --bg: rgba(123, 151, 170);
   }
 }
