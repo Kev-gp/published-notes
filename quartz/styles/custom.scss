@@ -65,11 +65,3 @@ h6 {
 //  font-size: 1rem;
 //  line-height: 2rem;
 //}
-
-.callout {
-  &[data-callout="question"] {
-    --color: rgb(134, 165, 185);
-    --border: rgba(123, 151, 170);
-    --bg: rgb(34, 34, 37);
-  }
-}
