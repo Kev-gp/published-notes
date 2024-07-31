@@ -8,7 +8,7 @@ date: 2024-07-31
 ---
 ## Why pursue?
 
-My main interest in this topic lies in the somewhat unsatisfying and insufficient reasoning that pro-lifers and pro-choice advocates tend to give on abortion. This was especially striking during a particular abortion panel discussion some years back when no one came close to defining what constitutes life. Since then, I wanted to understand the underlying arguments from both sides.
+My main interest in this topic lies in the somewhat unsatisfying and insufficient reasoning that pro-lifers and pro-choice advocates tend to give on abortion. This was especially striking during a particular abortion panel discussion I partook in as an observer some years back. No one came close to defining what constitutes life. Since then, I wanted to understand the underlying arguments from both sides.
 
 Abortion is also an interesting one to take on since the stakes involved are exceedingly high:
 
