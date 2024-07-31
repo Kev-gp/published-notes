@@ -1,5 +1,5 @@
 ---
-title: "The Writer's Odyssey: Why We Put Pen to Paper"
+title: "The Writer's Odyssey: Why We Write"
 aliases: 
 tags:
   - writing
