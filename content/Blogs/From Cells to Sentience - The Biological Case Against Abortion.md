@@ -144,7 +144,7 @@ Experts in the field of embryology and human development also once testified bef
 
 > Physicians, biologists, and other scientists agree that conception marks the beginning of a human being—a being that is alive and is a member of the human species. There is overwhelming agreement on this point in countless medical, biological, and scientific writings[^5].
 
-We also have one of the strongest pro-choice advocate, Peter Singer, that was quoted [[From Cells to Sentience - The Biological Debate on Abortion#^1877e4|earlier]]:
+We also have one of the strongest pro-choice advocate, Peter Singer, that was quoted [[From Cells to Sentience - The Biological Case Against Abortion#^1877e4|earlier]]:
 
 > [T]here is no doubt that from the first moments of its existence an embryo conceived from human sperm and eggs is a human being, and the same is true of the most profoundly and irreparably intellectually disabled human being, even of an anencephalic infant—that is, an infant that, as a result of a defect in the formation of the neural tube, has no brain.
 > 
