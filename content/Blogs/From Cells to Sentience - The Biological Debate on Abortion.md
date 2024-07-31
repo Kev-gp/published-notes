@@ -1,5 +1,5 @@
 ---
-title: 
+title: "From Cells to Sentience: The Biological Debate on Abortion"
 aliases: 
 tags:
   - philosophy
