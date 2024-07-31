@@ -57,8 +57,8 @@ There is a simple (and also the broadest) biological definition of what constitu
 1. **Ancestry**: If the parents of a fetus are cats, then the fetus will be a cat. Likewise, if the parents are human, then the fetus will be human.
 2. **DNA**: If a fetus possesses a human genetic code that has approximately 46 chromosomes, then it is a human being.
 
-> [!question]- Why do human beings have "approximately 46 chromosomes"?
-> We use "approximately" as not all human beings have 46 chromosomes, such as people with Trisomy 21 or Klinefelter's syndrome, both of whom have 47 chromosomes[^1]. People with Turner's syndrome have only one X chromosome and therefore have 45 chromosomes[^2].
+> [!question]- Why "approximately 46 chromosomes"?
+> We use "approximately" as not all human beings have 46 chromosomes, such as people with Trisomy 21 or Klinefelter's syndrome, both of whom have 47 chromosomes[^1]. People with Turner's syndrome have only one X chromosome and therefore have 45 chromosomes in total[^2].
 
 Since the zygote after fertilization does satisfy these two pieces of evidence, we can therefore say it is a biological human being. We'll see that even leading pro-choice philosophers and bioethicists agree on this point:
 
