@@ -1,5 +1,5 @@
 ---
-title: Why Write?
+title: "The Writer's Odyssey: Why We Put Pen to Paper"
 aliases: 
 tags:
   - writing
@@ -70,7 +70,7 @@ This enables our subconscious to guide us and tap into our innermost thoughts an
 
 For others however, it can be understandably frightening. Rendering deeply rooted thoughts into words can uncover something we may not want to hear. But as Demetriou argues, this revealing process is precisely what associates writing with therapy, so much so that the term “writing therapy” has long since been a part of psychology.
 
-When starting a new page in my journal, the first few lines are always planned. I knew what I wanted to write about and could fill up half the page rather quickly. But as time went on, I realized most those lines could be safely discarded. The real insights are what remained after. Forte and Demetriou both speak of writing’s effectiveness in clearing the noise. We start writing about things already in our minds, but soon we get to what we _really_ want to write about. We transition from explaining ideas to exploring them, arriving at something we didn’t know was there. These could be undisclosed aspects of us, as Demetriou suggests, an experience familiar to me when penning down troubling experiences. As difficult as it is, the discovery and exploration in that moment of vulnerability can be conducive to our mental health. It can be a source of calm joy, when we let go of negative emotions, gain perspective, and become self-aware by putting our thoughts on paper.
+When starting a new page in my journal (or rather *Obsidian* nowadays), the first few lines are always planned. I knew what I wanted to write about and could fill up half the page rather quickly. But as time went on, I realized most those lines could be safely discarded. The real insights are what remained after. Forte and Demetriou both speak of writing’s effectiveness in clearing the noise. We start writing about things already in our minds, but soon we get to what we _really_ want to write about. We transition from explaining ideas to exploring them, arriving at something we didn’t know was there. These could be undisclosed aspects of us, as Demetriou suggests, an experience familiar to me when penning down troubling experiences. As difficult as it is, the discovery and exploration in that moment of vulnerability can be conducive to our mental health. It can be a source of calm joy, when we let go of negative emotions, gain perspective, and become self-aware by putting our thoughts on paper.
 
 ## Conclusion
 
