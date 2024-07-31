@@ -112,11 +112,11 @@ After which, if it is able to develop toward becoming a mature member of its spe
 > 
 > A friend of mine once argued that an egg cell can in fact develop into a mature human being through a process known as *parthenogenesis*. It refers to the development of an unfertilised female sex cell without any male contribution. This certainly does happen for some plants, insects, and even lizards, and explains some of the asexual reproduction that occurs among them. He pointed to the following article as an example for human beings[^3]:
 > 
-> ![[Pasted image 20240318201218.png]]
+> ![[Pasted image 20240731123036.png]]
 > 
 > But the idea that there was no sperm involved in creating the boy is simply not true. The boy resulting from a "partial parthenogenesis" where the egg, which did self-activated (cell division) itself, was later fertilised by a sperm cell early in the development.
 > 
-> ![[19982301.webp]]
+> ![[Pasted image 20240731123134.png]]
 > 
 > This explains why the boy has Y chromosome material in some places and only X chromosome material in others. Even if the sperm cell did not infiltrate in the first place, the egg cell only ends as a type of benign tumour called an *ovarian teratoma*[^4]. 
 
