@@ -36,7 +36,7 @@ export default {
       createdWith: "Created with",
     },
     graph: {
-      title: "Topology of Thoughts",
+      title: "Graph View",
     },
     recentNotes: {
       title: "Recent Notes",
