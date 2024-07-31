@@ -18,7 +18,7 @@ Nowadays my notebook acts as a trusty companion I carry with me everywhere I go,
 
 Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and make them permanent. Parsing through my notes I sometimes wonder; how does writing shape the way we think and feel?
 
-## Writing for productivity
+## Writing for learning
 
 We’re all facing the issue of information overload. There’s an excess of information, messages, things to do and to remember. Social media also aligns us towards whatever is new and popular. But with more information available, the more we find ourselves distracted and unproductive.
 
@@ -44,7 +44,7 @@ Writing also helps us reach a decision, be it for an essay, business, email, and
 > 
 > *– Daniel Kahneman*
 
-## The power of digital note-taking
+## Writing as a tool for knowledge
 
 Fortunately, technology has a way of optimizing the way we write. *Obsidian* stood out to me from other digital note-taking tools as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier.
 
