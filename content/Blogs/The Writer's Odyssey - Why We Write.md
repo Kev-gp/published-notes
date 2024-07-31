@@ -38,13 +38,17 @@ Writing further drives us to look deeper at those thoughts and search for other 
 
 Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It makes our intellectual endeavours possible[^2].
 
-Writing also helps us reach a decision, be it for an essay, business, email, and so on. Putting pen on paper is like creating a map that points us towards making certain resolutions.
-
 > *People don't choose between things; they choose between descriptions of things.*
 > 
 > *– Daniel Kahneman*
 
+Writing also helps us reach a decision, be it for an essay, business, email, and so on. Putting pen on paper is like creating a map that points us towards making certain resolutions.
+
 ## Writing as a tool for knowledge
+
+> Notes aren’t a record of my thinking process. They are my thinking process.
+> 
+> – Richard Feynman
 
 Fortunately, technology has a way of optimizing the way we write. *Obsidian* stood out to me from other digital note-taking tools as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier.
 
