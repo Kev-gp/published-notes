@@ -66,11 +66,7 @@ Externalising, exploring, and connecting ideas in new and unexpected ways made p
 
 The slow and measured practice of writing also preserves our mental health. Indeed, writing is more than just an intellectual activity. Life writer and researcher Nicoletta Demetriou in her TED talk[^4] highlights how our busy minds resemble a congested highway, with hundreds of cars passing through it daily. In the same vein as Forte, writing aids in removing the extra noise, turning that busy highway into a rural street. 
 
-She then explores the deeper wonders of writing by emphasising its transformative power in helping writers achieve self-discovery and personal growth, particularly by “writing without thinking”. That is, 
-
-$$
-\text{to write spontaneously and without any preconceived notions.}
-$$
+She then explores the deeper wonders of writing by emphasising its transformative power in helping writers achieve self-discovery and personal growth, particularly by “writing without thinking”. That is, to write spontaneously and without any preconceived notions.
 
 This enables our subconscious to guide us and tap into our innermost thoughts and emotions. For some, it can offer surprising insights and help overcome creative blocks and limitations. Writing before a high-stress event, for example, can enhance performance by loosening up people's *working memory* in their prefrontal cortex[^5].
 
