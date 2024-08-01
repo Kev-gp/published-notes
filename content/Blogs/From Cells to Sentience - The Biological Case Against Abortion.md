@@ -15,7 +15,7 @@ Abortion is also an interesting one to take on since the stakes involved are exc
 1. If pro-choice advocates are right and abortion is merely harmless surgery, then pro-lifers unnecessarily oppress women and are falsely accusing them of homicide
 2. But if they're wrong and abortion does end the life of a human being, then pro-choice advocates are guilty of defending the killing of millions of human beings
 
-I suspect much of the confusion and difficulty surrounding this topic falls on whether we can truly ascertain what the unborn truly are. Many skeptics have taken this position. As Greg Koukl writes,
+I suspect much of the confusion and difficulty surrounding this topic falls on whether we can truly ascertain what the unborn truly are. As Greg Koukl writes,
 
 > If the unborn is not a human person, no justification for abortion is necessary. However, if the unborn is a human person, no justification for abortion is adequate[^1].
 
