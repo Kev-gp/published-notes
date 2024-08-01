@@ -68,7 +68,9 @@ The slow and measured practice of writing also preserves our mental health. Inde
 
 She then explores the deeper wonders of writing by emphasising its transformative power in helping writers achieve self-discovery and personal growth, particularly by “writing without thinking”. That is, 
 
-$$\text{to write spontaneously and without any preconceived notions.}$$
+$$
+\text{to write spontaneously and without any preconceived notions.}
+$$
 
 This enables our subconscious to guide us and tap into our innermost thoughts and emotions. For some, it can offer surprising insights and help overcome creative blocks and limitations. Writing before a high-stress event, for example, can enhance performance by loosening up people's *working memory* in their prefrontal cortex[^5].
 
