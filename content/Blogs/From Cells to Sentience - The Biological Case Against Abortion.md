@@ -3,6 +3,7 @@ title: "From Cells to Sentience: The Biological Case Against Abortion"
 aliases: 
 tags:
   - philosophy
+  - biology
 draft: false
 date: 2024-07-31
 ---
