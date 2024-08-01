@@ -8,22 +8,20 @@ date: 2024-07-31
 ---
 ## Why bother?
 
-My main interest in this topic lies in the somewhat unsatisfying and insufficient reasoning that pro-lifers and pro-choice advocates tend to give on abortion. This was especially striking during a particular abortion panel discussion I partook in as an observer some years back. No one came close to defining what constitutes life. Since then, I wanted to understand the underlying arguments from both sides.
+My main interest in this topic lies in the somewhat unsatisfying and insufficient reasoning that pro-lifers and pro-choice advocates tend to give on abortion. This was especially striking during a particular abortion panel discussion I partook in as an observer some years back. No one came close to defining what constitutes life. Since then, I wanted to better understand the underlying arguments from both sides.
 
 Abortion is also an interesting one to take on since the stakes involved are exceedingly high:
 
 1. If pro-choice advocates are right and abortion is merely harmless surgery, then pro-lifers unnecessarily oppress women and are falsely accusing them of homicide
 2. But if they're wrong and abortion does end the life of a human being, then pro-choice advocates are guilty of defending the killing of millions of human beings
 
-I suspect much of the confusion and difficulty surrounding this topic falls on whether we can truly ascertain what the unborn truly are. Many skeptics have pointed this out. As Greg Koukl writes,
+I suspect much of the confusion and difficulty surrounding this topic falls on whether we can truly ascertain what the unborn truly are. Many skeptics have taken this position. As Greg Koukl writes,
 
-> If the unborn is not a human person, no justification for abortion is necessary. However, if the unborn is a human person, no justification for abortion is adequate.
-> 
-> – Greg Koukl, *Precious Unborn Human Persons*
+> If the unborn is not a human person, no justification for abortion is necessary. However, if the unborn is a human person, no justification for abortion is adequate[^1].
 
-But as I will try to show, pro-lifers can in fact argue that the unborn are in fact biological human beings, based upon *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood. I'll first address the skeptics unwilling to take a position on abortion, who think that "we do not really know when life begins."
+But as I will try to show, pro-lifers can in fact argue that the unborn are in fact biological human beings, based upon *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood. But I'll first address the skeptics unwilling to take a position on abortion, who assume that "we do not really know when life begins."
 
-**Remark.** Much of the arguments laid forth were inspired from the book *Persuasive Pro-Life* by Trent Horn, and some others are my personal responses to arguments that people shared with me in the past. 
+**Remark.** Much of the arguments laid forth are inspired from the book *Persuasive Pro-Life* by Trent Horn[^2], and some others are my personal responses to arguments that people shared with me in the past. 
 
 Now on to biology…
 
@@ -58,7 +56,7 @@ There is a simple (and also the broadest) biological definition of what constitu
 2. **DNA**: If a fetus possesses a human genetic code that has approximately 46 chromosomes, then it is a human being.
 
 > [!question]- Why "approximately 46 chromosomes"?
-> We use "approximately" as not all human beings have 46 chromosomes, such as people with Trisomy 21 or Klinefelter's syndrome, both of whom have 47 chromosomes[^1]. People with Turner's syndrome have only one X chromosome and therefore have 45 chromosomes in total[^2].
+> We use "approximately" as not all human beings have 46 chromosomes, such as people with Trisomy 21 or Klinefelter's syndrome, both of whom have 47 chromosomes[^3]. People with Turner's syndrome have only one X chromosome and therefore have 45 chromosomes in total[^4].
 
 Since the zygote after fertilization does satisfy these two pieces of evidence, we can therefore say it is a biological human being. We'll see that even leading pro-choice philosophers and bioethicists agree on this point:
 
@@ -110,7 +108,7 @@ After which, if it is able to develop toward becoming a mature member of its spe
 
 > [!question]- What about *parthenogenesis*?
 > 
-> A friend of mine once argued that an egg cell can in fact develop into a mature human being through a process known as *parthenogenesis*. It is the development of an unfertilised female sex cell without any male contribution. This certainly does happen for some plants, insects, and even lizards, and explains some of the asexual reproduction that occurs among them. He pointed to the following article as an example for human beings[^3]:
+> A friend of mine once argued that an egg cell can in fact develop into a mature human being through a process known as *parthenogenesis*. It is the development of an unfertilised female sex cell without any male contribution. This certainly does happen for some plants, insects, and even lizards, and explains some of the asexual reproduction that occurs among them. He pointed to the following article as an example for human beings[^5]:
 > 
 > ![[Pasted image 20240731123036.png]]
 > 
@@ -118,7 +116,7 @@ After which, if it is able to develop toward becoming a mature member of its spe
 > 
 > ![[Pasted image 20240731123134.png]]
 > 
-> This explains why the boy has Y chromosome material in some places and X chromosome material in others. Even if the sperm cell did not infiltrate in the first place, the egg cell would only end up as a type of benign tumour, called an *ovarian teratoma*[^4]. 
+> This explains why the boy has Y chromosome material in some places and X chromosome material in others. Even if the sperm cell did not infiltrate in the first place, the egg cell would only end up as a type of benign tumour, called an *ovarian teratoma*[^6]. 
 
 ## Expert opinions unveiled
 
@@ -142,7 +140,7 @@ Putting it altogether, these explain why plenty of biologists (particularly embr
 
 Experts in the field of embryology and human development also once testified before a U.S. senate hearing, and the governing authority concluded the following:
 
-> Physicians, biologists, and other scientists agree that conception marks the beginning of a human being—a being that is alive and is a member of the human species. There is overwhelming agreement on this point in countless medical, biological, and scientific writings[^5].
+> Physicians, biologists, and other scientists agree that conception marks the beginning of a human being—a being that is alive and is a member of the human species. There is overwhelming agreement on this point in countless medical, biological, and scientific writings[^7].
 
 We also have one of the strongest pro-choice advocate, Peter Singer, that was quoted [[From Cells to Sentience - The Biological Case Against Abortion#^1877e4|earlier]]:
 
@@ -156,13 +154,15 @@ And many more secular and pro-choice sources can be found [here](https://www.epm
 
 While many tend to concede these biological facts, note also the implicit assumption being made here; that we ought to attribute moral value equally to all biological human beings. For people such as Peter Singer, this was his line of attack as he writes:
 
-> The solution, however, is not to accept the pro-life view that the fetus is a human being with the same moral status as yours or mine. The solution is the very opposite: to abandon the idea that all human life is of equal worth[^6].
+> The solution, however, is not to accept the pro-life view that the fetus is a human being with the same moral status as yours or mine. The solution is the very opposite: to abandon the idea that all human life is of equal worth[^8].
 
 A dangerous track to go down on, but this puts pro-lifers in a favourable position, for the burden of proof then shifts over to pro-choice advocates to show why certain differences between the born and unborn necessitates attributing unequal moral status. If they are unable to, it'd parallel oppressing people based on morally irrelevant biological traits such as race and gender. This brings us to their *philosophical* definition of what constitutes human beings, and also where the real abortion debate really lies.
 
-[^1]: [Down Syndrome (for Parents) | Nemours KidsHealth](https://kidshealth.org/en/parents/down-syndrome.html#:~:text=In%20most%20cases%20of%20Down,21%20attaches%20to%20another%20chromosome.)
-[^2]: [Turner Syndrome (for Parents) | Nemours KidsHealth](https://kidshealth.org/en/parents/turner.html#:~:text=To%20diagnose%20Turner%20syndrome%2C%20doctors,instead%20of%20the%20usual%2046.)
-[^3]: [The boy whose blood has no father | New Scientist](https://www.newscientist.com/article/mg14819982-300-the-boy-whose-blood-has-no-father/)
-[^4]: [On human parthenogenesis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0306987717302694)
-[^5]: Report, Subcommittee on Separation of Powers to Senate Judiciary Committee S-158, 97th Congress, 1st Session, 1981, 7.
-[^6]: Peter Singer and Helen Kuhse, "On Letting Handicapped Infants Die" in *The Right Thing to Do: Basic Readings in Moral Philosophy*, ed. James Rachels (New York: Random House, 1989), p. 146.
+[^1]: Koukl, G. (1999). _Precious unborn human persons_. Stand to Reason.
+[^2]: Horn, T. (2023). _Persuasive pro-life: How to talk about our culture’s toughest issue_. Catholic Answers Press.
+[^3]: [Down Syndrome (for Parents) | Nemours KidsHealth](https://kidshealth.org/en/parents/down-syndrome.html#:~:text=In%20most%20cases%20of%20Down,21%20attaches%20to%20another%20chromosome.)
+[^4]: [Turner Syndrome (for Parents) | Nemours KidsHealth](https://kidshealth.org/en/parents/turner.html#:~:text=To%20diagnose%20Turner%20syndrome%2C%20doctors,instead%20of%20the%20usual%2046.)
+[^5]: [The boy whose blood has no father | New Scientist](https://www.newscientist.com/article/mg14819982-300-the-boy-whose-blood-has-no-father/)
+[^6]: [On human parthenogenesis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0306987717302694)
+[^7]: Report, Subcommittee on Separation of Powers to Senate Judiciary Committee S-158, 97th Congress, 1st Session, 1981, 7.
+[^8]: Peter Singer and Helen Kuhse, "On Letting Handicapped Infants Die" in *The Right Thing to Do: Basic Readings in Moral Philosophy*, ed. James Rachels (New York: Random House, 1989), p. 146.
