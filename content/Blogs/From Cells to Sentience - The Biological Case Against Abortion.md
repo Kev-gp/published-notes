@@ -20,7 +20,7 @@ I suspect much of the confusion and difficulty surrounding this topic falls on w
 
 > If the unborn is not a human person, no justification for abortion is necessary. However, if the unborn is a human person, no justification for abortion is adequate[^1].
 
-But as I will try to show, pro-lifers can in fact argue that the unborn are in fact biological human beings, based upon *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood. But I'll first address the skeptics unwilling to take a position on abortion, who assume that "we do not really know when life begins."
+But as I will try to show, pro-lifers can in fact argue that the unborn are in fact biological human beings, based upon *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood. But I'll first address the skeptics unwilling to take a position on abortion and assume that "we do not really know when life begins."
 
 **Remark.** Much of the arguments laid forth are inspired from the book *Persuasive Pro-Life* by Trent Horn[^2], and some others are my personal responses to arguments that people shared with me in the past. 
 
@@ -74,11 +74,11 @@ Since the zygote after fertilization does satisfy these two pieces of evidence, 
 > [!question]- "Many experts disagree on it"
 > If one remains unconvinced of the biological definition and deems it indeterminate since “many experts disagree on it”, then they’ll have to give a separate biological definition that is more accurate or at least explain why the definition above fails. Resorting to hyper skepticism would not really get us anywhere in a discussion.
 
-Perhaps rather expectedly, there's going to be the following rebuttal. If we suppose that it is true that the fetus is alive and human, does it follow that since every cell in our body is alive and human, it is therefore the case that they are human beings? What of the sperm and egg? Does our human protection extend to these?
+One may object; suppose that it is true that the fetus is alive and human. Does it mean that since every cell in our body is also alive and human, it therefore follows that they are human beings? What of the sperm and egg? Does our human protection extend to these?
 
 ### Are the unborn whole organisms?
 
-The aforementioned objection above confuses two things. Firstly, we are confusing parts with wholes. The argument that
+The aforementioned objection above confuses two things. Firstly, it confuses parts with wholes. The argument that
 
 1. A fetus is alive and human
 2. Sperm and egg are alive and human
@@ -90,9 +90,9 @@ would be as fallacious as saying
 2. Nuts and bolts are made of metal
 3. Therefore a car is a car part like a nut or a bolt
 
-Things that have traits in common do not imply that they are the same. Rather, we describe the sperm, egg, and other body cells as *parts* of a human body. The fetus on the other hand is a *whole* human body that is able to develop itself over time.
+Things that have traits in common do not imply that they are the same. Rather, we describe the sperm, egg, and other body cells as *parts* of a human body. The fetus on the other hand is a *whole* human body capable of developing itself over time.
 
-Secondly, it confuses adjectives and nouns. Sperm, egg, fetuses, and toddlers can be said to be *human* in the *adjective* (descriptive) sense, since they possess human DNA. But only fetuses and toddlers are *human* in the *noun* (identifies a person, place, thing or concept) sense of the word.
+Secondly, it confuses adjectives and nouns. Adjectives are descriptive while nouns identify a person, place, thing, or concept. Sperm, egg, fetuses, and toddlers can be said to be *human* in the *adjective* sense, since they possess human DNA. But only fetuses and toddlers are *human* in the *noun* sense of the word.
 
 **Example.** Chicken rice and the Singapore President Mr Tharman are described to be uniquely Singaporean. But clearly only one of them is *a* Singaporean.
 
@@ -157,7 +157,7 @@ While many tend to concede these biological facts, note also the implicit assump
 
 > The solution, however, is not to accept the pro-life view that the fetus is a human being with the same moral status as yours or mine. The solution is the very opposite: to abandon the idea that all human life is of equal worth[^8].
 
-A dangerous track to go down on, but this puts pro-lifers in a favourable position, for the burden of proof then shifts over to pro-choice advocates to show why certain differences between the born and unborn necessitates attributing unequal moral status. If they are unable to, it'd parallel oppressing people based on morally irrelevant biological traits such as race and gender. This brings us to their *philosophical* definition of what constitutes human beings, and also where the real abortion debate really lies.
+A dangerous track to go down on, but this puts pro-lifers in a favourable position, for the burden of proof then shifts over to pro-choice advocates to show why certain differences between the born and unborn necessitates attributing unequal moral status. If they're unable to, it'd parallel oppressing people based on morally irrelevant biological traits such as race and gender. This brings us to their *philosophical* definition of what constitutes human beings, and also where the real abortion debate really lies.
 
 [^1]: Koukl, G. (1999). _Precious unborn human persons_. Stand to Reason.
 [^2]: Horn, T. (2023). _Persuasive pro-life: How to talk about our culture’s toughest issue_. Catholic Answers Press.
