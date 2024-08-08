@@ -12,7 +12,9 @@ export const sharedPageComponents: SharedLayout = {
     })),
   ],
   footer: Component.Footer({
-    links: {},
+    links: {
+      Instagram: "https://www.instagram.com/kev_gp/",
+    },
   }),
 }
 
@@ -30,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.RecentNotes({
-      title: "Recent Writing",
+      title: "Recent Writings",
       limit: 5
     })),
     Component.DesktopOnly(Component.Explorer()),

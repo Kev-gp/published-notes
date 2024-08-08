@@ -20,7 +20,7 @@ I suspect much of the confusion and difficulty surrounding this topic falls on w
 
 > If the unborn is not a human person, no justification for abortion is necessary. However, if the unborn is a human person, no justification for abortion is adequate[^1].
 
-But as I will try to show, pro-lifers can in fact argue that the unborn are in fact biological human beings, based upon *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood. But I'll first address the skeptics unwilling to take a position on abortion and assume that "we do not really know when life begins."
+But as I will try to show, pro-lifers can in fact argue that the unborn are biological human beings, based upon *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood. But I'll first address the skeptics unwilling to take a position on abortion and assume that "we do not really know when life begins."
 
 **Remark.** Much of the arguments laid forth are inspired from the book *Persuasive Pro-Life* by Trent Horn[^2], and some others are my personal responses to arguments that people shared with me in the past. 
 
