@@ -12,9 +12,7 @@ export const sharedPageComponents: SharedLayout = {
     })),
   ],
   footer: Component.Footer({
-    links: {
-      Instagram: "https://www.instagram.com/kev_gp/",
-    },
+    links: {},
   }),
 }
 
