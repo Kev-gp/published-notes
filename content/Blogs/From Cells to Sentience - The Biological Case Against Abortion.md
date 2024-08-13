@@ -38,16 +38,14 @@ There are three key points to be shown:
 
 ### Are the unborn alive?
 
-Pro-choice advocates tend to imply that the unborn are non-living things when they claim that the unborn are just a "clump of cells". As such, they are to be treated as mere body parts, like our nails or a piece of hair.
-
-But they are alive since they are receiving nutrients from the mother that causes the fetus to grow via cellular reproduction. Cellular growth is an important criteria, for it explains why we consider plants and animals to be alive. It also distinguishes us from the dead, for they lack "organic unity" and start decaying rather than continuing to grow. It's also why we consider those who are brain-dead to be "legally dead", for the same reason that their body starts decaying.
+Pro-choice advocates tend to imply that the unborn are non-living things when they claim that the unborn are just a "clump of cells". But they are alive since they are receiving nutrients from their mother, causing the fetus to grow via cellular reproduction. Cellular growth is a vital criterion, explaining why we consider both plants and animals to be living entities. It also sets us apart from the deceased, who lack "organic unity" and instead undergo decay rather than continued growth. As such, individuals who are brain-dead are legally considered deceased by the very same principle—their bodies begin to deteriorate.
 
 > [!question]- But the unborn can't grow (and thus survive) outside the womb?
 > This merely shows that the unborn are alive in certain places, just as we adult humans can only be alive in certain places (not in space, volcano, etc.).
 
-Another way of showing this is to take the contrapositive and ask "what does abortion do to the fetus?" Ultimately, it leads to the death of the fetus. But if it dies, surely it'd have to be alive at some point, would it not?
+Another way of showing that the unborn are alive is to take the contrapositive and ask "what does abortion do to the fetus?" Ultimately, it leads to the death of the fetus. But if it dies, surely it'd have to be alive at some point, would it not?
 
-Now, so what if the fetus is alive? Plenty of other organisms are alive but we don't extend human protection to them. We must then show that they are a special kind of a living thing.
+So what if the fetus is alive? Plenty of other organisms are alive but we don't extend human protection to them. We must then show that they are a special kind of a living thing.
 
 ### Are the unborn human?
 
@@ -74,7 +72,7 @@ Since the zygote after fertilization does satisfy these two pieces of evidence, 
 > [!question]- "Many experts disagree on it"
 > If one remains unconvinced of the biological definition and deems it indeterminate since “many experts disagree on it”, then they’ll have to give a separate biological definition that is more accurate or at least explain why the definition above fails. Resorting to hyper skepticism would not really get us anywhere in a discussion.
 
-One may object; suppose that it is true that the fetus is alive and human. Does it mean that since every cell in our body is also alive and human, it therefore follows that they are human beings? What of the sperm and egg? Does our human protection extend to these?
+One may object: suppose that it is true that the fetus is alive and human. Does it mean that since every cell in our body is also alive and human, it therefore follows that they are human beings? What of the sperm and egg? Does our human protection extend to these?
 
 ### Are the unborn whole organisms?
 
