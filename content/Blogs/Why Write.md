@@ -8,9 +8,7 @@ date: 2024-07-30
 ---
 Sitting down at my wooden desk, I could vividly recall the rigorous and demanding process of composing essays at my school table years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock gets louder in the background. I’m brought into a world of academic rigor, measuring every word used to produce a rational argument.
 
-Looking at my journal that lay before me, the contrast is striking. The written words flow freely without restraint. I write because I want to and I let my handwriting go loose, allowing the reflective process of journaling to remain unstifled.
-
-My small, unassuming notebook also serves to take down notes. I’d often struggle to remember whatever I’ve read or listened to, which makes me ask:
+Looking at my journal that lay before me, the contrast is striking. The written words flow freely without restraint. I write because I want to and I let my handwriting go loose, allowing the reflective process of journaling to remain unstifled. It also serves to take down notes as I’d often struggle to remember whatever I’ve read or listened to.
 
 > *Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp?*
 
@@ -38,37 +36,19 @@ Writing further drives us to look deeper at those thoughts and search for other 
 
 Write so we know how much we know and do not know. Externalize our ideas and make order out of the chaos of our thoughts. It makes our intellectual endeavours possible[^2].
 
+Writing also helps us reach a decision, be it for an essay, business, email, and so on. Putting pen on paper is like creating a map that points us towards making certain resolutions.
+
 > *People don't choose between things; they choose between descriptions of things.*
 > 
 > *– Daniel Kahneman*
 
-Writing also helps us reach a decision, be it for an essay, business, email, and so on. Putting pen on paper is like creating a map that points us towards making certain resolutions.
-
-## Writing as a tool for knowledge
-
-Fortunately, technology has a way of optimizing the way we write. *Obsidian* stood out to me from other digital note-taking tools as my ‘knowledge vault’. It has a clean and minimal interface, the focus entirely on my own notes. Creating them has never been easier.
-
-![[Screenshot 2024-07-30 223043.png]]
-
-***Figure 1.** An example of Obsidian’s user interface.*
-
-I could create links with other related notes, generating a network of associated ideas that are easy to navigate. This is visually represented by the graph view function. As my notes continue to grow, the graph start resembling a neural network, a web of knowledge that is an extension of my mind. 
-
-![[Pasted image 20240729125532.png]]
-
-***Figure 2.** A graph view of all my notes (also seen in my homepage). Different colours represent different note types and subjects. Helps me see the boundaries of my thoughts and where they are approaching.*
-
-Externalising, exploring, and connecting ideas in new and unexpected ways made possible by digital writing can spark creative insights and innovations. As psychologist Robert Bjork writes:
-
-> If information is studied so that it can be interpreted in relation to other things in memory, learning is much more powerful[^3].
-
 ## Writing as therapy
 
-The slow and measured practice of writing also preserves our mental health. Indeed, writing is more than just an intellectual activity. Life writer and researcher Nicoletta Demetriou in her TED talk[^4] highlights how our busy minds resemble a congested highway, with hundreds of cars passing through it daily. In the same vein as Forte, writing aids in removing the extra noise, turning that busy highway into a rural street. 
+The slow and measured practice of writing also preserves our mental health. Indeed, writing is more than just an intellectual activity. Life writer and researcher Nicoletta Demetriou in her TED talk[^3] highlights how our busy minds resemble a congested highway, with hundreds of cars passing through it daily. In the same vein as Forte, writing aids in removing the extra noise, turning that busy highway into a rural street. 
 
 She then explores the deeper wonders of writing by emphasising its transformative power in helping writers achieve self-discovery and personal growth, particularly by “writing without thinking”. That is, to write spontaneously and without any preconceived notions.
 
-This enables our subconscious to guide us and tap into our innermost thoughts and emotions. For some, it can offer surprising insights and help overcome creative blocks and limitations. Writing before a high-stress event, for example, can enhance performance by loosening up people's *working memory* in their prefrontal cortex[^5].
+This enables our subconscious to guide us and tap into our innermost thoughts and emotions. For some, it can offer surprising insights and help overcome creative blocks and limitations. Writing before a high-stress event, for example, can enhance performance by loosening up people's *working memory* in their prefrontal cortex[^4].
 
 For others, however, it can be understandably frightening. Rendering deeply rooted thoughts into words can uncover something we may not want to hear. But as Demetriou argues, this revealing process is precisely what associates writing with therapy, so much so that the term “writing therapy” has long since been a part of psychology. ^84653e
 
@@ -80,6 +60,5 @@ Writing is an incredibly simple task, requiring only pen and paper. Yet its nume
 
 [^1]: Forte, T. (2022). _Building a second brain_. Profile Trade.
 [^2]: Neuroscientist Neil Levy, Oxford Handbook of Neuroethics; Richard Feynman; Benjamin Franklin.
-[^3]: [Everything You Thought You Knew About Learning Is Wrong | WIRED](https://www.wired.com/2012/01/everything-about-learning/)
-[^4]: TED. (2015). Look deeper – write – the wonders of writing | Nicoletta Demetriou [Video]. YouTube. [https://www.youtube.com/watch?v=aTgPJQ9Dy7Q](https://www.youtube.com/watch?v=aTgPJQ9Dy7Q).
-[^5]: [Learning By Thinking: How Reflection Improves Performance - HBS Working Knowledge](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
+[^3]: TED. (2015). Look deeper – write – the wonders of writing | Nicoletta Demetriou [Video]. YouTube. [https://www.youtube.com/watch?v=aTgPJQ9Dy7Q](https://www.youtube.com/watch?v=aTgPJQ9Dy7Q).
+[^4]: [Learning By Thinking: How Reflection Improves Performance - HBS Working Knowledge](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
