@@ -9,22 +9,20 @@ date: 2024-07-31
 ---
 ## Why bother?
 
-My main interest in this topic lies in the somewhat unsatisfying and insufficient reasoning that pro-lifers and pro-choice advocates tend to give on abortion. This was especially striking during a particular abortion panel discussion I partook in as an observer some years back. No one came close to defining what constitutes life. Since then, I wanted to better understand the underlying arguments from both sides.
+> If the unborn is not a human person, no justification for abortion is necessary. However, if the unborn is a human person, no justification for abortion is adequate[^1].
+> 
+> – Greg Koukl
 
-Abortion is also an interesting one to take on since the stakes involved are exceedingly high:
+Abortion is an interesting one to take on since the stakes involved are exceedingly high:
 
 1. If pro-choice advocates are right and abortion is merely harmless surgery, then pro-lifers unnecessarily oppress women and are falsely accusing them of homicide
 2. But if they're wrong and abortion does end the life of a human being, then pro-choice advocates are guilty of defending the killing of millions of human beings
 
-I suspect much of the confusion and difficulty surrounding this topic falls on whether we can truly ascertain what the unborn truly are. As Greg Koukl writes,
+But I suspect much of the confusion and difficulty surrounding this topic falls on whether we can truly ascertain the nature of the unborn. This was especially striking during an abortion panel discussion I once observed some years ago as part of my university coursework. Both pro-lifers and pro-choice advocates alike gave arguments that felt unsatisfying and insufficient, failing to provide a clear definition of what constitutes life. Since then, I wanted to better understand the underlying arguments from both sides.
 
-> If the unborn is not a human person, no justification for abortion is necessary. However, if the unborn is a human person, no justification for abortion is adequate[^1].
+As I will try to show, pro-lifers can in fact argue that the unborn are biological human beings, based upon *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood. But I'll first address the skeptics unwilling to take a position on abortion and assume that "we do not really know when life begins."
 
-But as I will try to show, pro-lifers can in fact argue that the unborn are biological human beings, based upon *biological* definitions. And they aren't merely a "clump of cells". Pro-choice advocates, on the other hand, tend to argue using a *philosophical* definition of personhood. But I'll first address the skeptics unwilling to take a position on abortion and assume that "we do not really know when life begins."
-
-**Remark.** Much of the arguments laid forth are inspired from the book *Persuasive Pro-Life* by Trent Horn[^2], and some others are my personal responses to arguments that people shared with me in the past. 
-
-Now on to biology…
+**Remark.** Much of the arguments laid forth are inspired from the book *Persuasive Pro-Life* by Trent Horn[^2], quite possibly the best introduction to the pro-life position.
 
 ## Making the Biological Case
 
@@ -38,14 +36,16 @@ There are three key points to be shown:
 
 ### Are the unborn alive?
 
-Pro-choice advocates tend to imply that the unborn are non-living things when they claim that the unborn are just a "clump of cells". But they are alive since they are receiving nutrients from their mother, causing the fetus to grow via cellular reproduction. Cellular growth is a vital criterion, explaining why we consider both plants and animals to be living entities. It also sets us apart from the deceased, who lack "organic unity" and instead undergo decay rather than continued growth. As such, individuals who are brain-dead are legally considered deceased by the very same principle—their bodies begin to deteriorate.
+Pro-choice advocates tend to imply that the unborn are non-living things when they claim that the unborn are just a "clump of cells". But they are alive since they are receiving nutrients from their mother, causing the fetus to grow via cellular reproduction. 
+
+Cellular growth is a vital criterion, explaining why we consider both plants and animals to be living entities. It also sets us apart from the deceased, who lack "organic unity" and instead undergo decay rather than continued growth. Moreover, this criterion explains why individuals who are brain-dead are legally considered deceased—their bodies begin to deteriorate.
 
 > [!question]- But the unborn can't grow (and thus survive) outside the womb?
 > This merely shows that the unborn are alive in certain places, just as we adult humans can only be alive in certain places (not in space, volcano, etc.).
 
 Another way of showing that the unborn are alive is to take the contrapositive and ask "what does abortion do to the fetus?" Ultimately, it leads to the death of the fetus. But if it dies, surely it'd have to be alive at some point, would it not?
 
-So what if the fetus is alive? Plenty of other organisms are alive but we don't extend human protection to them. We must then show that they are a special kind of a living thing.
+However, given that plenty of other organisms are also alive and yet we don't extend human protection to them, we must then demonstrate that the unborn are a unique form of life.
 
 ### Are the unborn human?
 
@@ -54,7 +54,7 @@ There is a simple (and also the broadest) biological definition of what constitu
 1. **Ancestry**: If the parents of a fetus are cats, then the fetus will be a cat. Likewise, if the parents are human, then the fetus will be human.
 2. **DNA**: If a fetus possesses a human genetic code that has approximately 46 chromosomes, then it is a human being.
 
-> [!question]- Why "approximately 46 chromosomes"?
+> [!question]- "approximately 46 chromosomes"?
 > We use "approximately" as not all human beings have 46 chromosomes, such as people with Trisomy 21 or Klinefelter's syndrome, both of whom have 47 chromosomes[^3]. People with Turner's syndrome have only one X chromosome and therefore have 45 chromosomes in total[^4].
 
 Since the zygote after fertilization does satisfy these two pieces of evidence, we can therefore say it is a biological human being. We'll see that even leading pro-choice philosophers and bioethicists agree on this point:
@@ -69,10 +69,7 @@ Since the zygote after fertilization does satisfy these two pieces of evidence, 
 
 ^1877e4
 
-> [!question]- "Many experts disagree on it"
-> If one remains unconvinced of the biological definition and deems it indeterminate since “many experts disagree on it”, then they’ll have to give a separate biological definition that is more accurate or at least explain why the definition above fails. Resorting to hyper skepticism would not really get us anywhere in a discussion.
-
-One may object: suppose that it is true that the fetus is alive and human. Does it mean that since every cell in our body is also alive and human, it therefore follows that they are human beings? What of the sperm and egg? Does our human protection extend to these?
+One may object: Suppose that it is true that the fetus is indeed alive and human, does this imply that every cell in our body—being alive and human as well—should also be considered human beings? What of the sperm and egg? Does our human protection extend to these?
 
 ### Are the unborn whole organisms?
 
@@ -88,34 +85,22 @@ would be as fallacious as saying
 2. Nuts and bolts are made of metal
 3. Therefore a car is a car part like a nut or a bolt
 
-Things that have traits in common do not imply that they are the same. Rather, we describe the sperm, egg, and other body cells as *parts* of a human body. The fetus on the other hand is a *whole* human body capable of developing itself over time.
+Things that have traits in common simply do not imply that they are the same. Rather, we describe the sperm, egg, and other body cells as *parts* of a human body. The fetus on the other hand is a *whole* human body capable of developing itself over time.
 
 Secondly, it confuses adjectives and nouns. Adjectives are descriptive while nouns identify a person, place, thing, or concept. Sperm, egg, fetuses, and toddlers can be said to be *human* in the *adjective* sense, since they possess human DNA. But only fetuses and toddlers are *human* in the *noun* sense of the word.
 
 **Example.** Chicken rice and the Singapore President Mr Tharman are described to be uniquely Singaporean. But clearly only one of them is *a* Singaporean.
 
 > [!question]- "A clump of cells"
-> Pro-choice advocates often object that the fetus is only a "clump of cells". But a "clump" is generally used to describe loose collections of things, particularly when the parts do not interact for the good of the whole. We, for example, generally don't describe a functioning camera as a "clump of lenses and sensors".
+> Pro-choice advocates often describe the fetus as a "clump of cells". But a "clump" is generally used to describe loose collections of things, particularly when the parts do not interact for the good of the whole. We, for example, generally don't describe a functioning camera as a "clump of lenses and sensors".
 
-I thus emphasize the third point. The unborn are not a "clump of cells (and/or parts)" because they are *whole organisms*. To give a simple test, a whole organism generally requires three things:
+Here lies the last point. The unborn are not a "clump of cells (and/or parts)" because they are *whole organisms*. Trent Horn, author of *Persuasive Pro-Life*, offers a simple test. A whole organism generally requires three things:
 
 1. Time
 2. Nutrition
 3. Proper environment
 
 After which, if it is able to develop toward becoming a mature member of its species, then it is a whole organism and not a mere body part. The individual sperm and egg, or any other body cell fails this test because despite being given these three things, they can never develop into an adult human.
-
-> [!question]- What about *parthenogenesis*?
-> 
-> A friend of mine once argued that an egg cell can in fact develop into a mature human being through a process known as *parthenogenesis*. It is the development of an unfertilised female sex cell without any male contribution. This certainly does happen for some plants, insects, and even lizards, and explains some of the asexual reproduction that occurs among them. He pointed to the following article as an example for human beings[^5]:
-> 
-> ![[Pasted image 20240731123036.png]]
-> 
-> But the idea that there was no sperm involved is simply not true. The boy resulted from a "partial parthenogenesis" where the egg, which did self-activate (cell divide) itself, was later fertilised by a sperm cell early in the development.
-> 
-> ![[Pasted image 20240731123134.png]]
-> 
-> This explains why the boy has Y chromosome material in some places and X chromosome material in others. Even if the sperm cell did not infiltrate in the first place, the egg cell would only end up as a type of benign tumour, called an *ovarian teratoma*[^6]. 
 
 ## Expert opinions unveiled
 
@@ -139,7 +124,7 @@ Putting it altogether, these explain why plenty of biologists (particularly embr
 
 Experts in the field of embryology and human development also once testified before a U.S. senate hearing, and the governing authority concluded the following:
 
-> Physicians, biologists, and other scientists agree that conception marks the beginning of a human being—a being that is alive and is a member of the human species. There is overwhelming agreement on this point in countless medical, biological, and scientific writings[^7].
+> Physicians, biologists, and other scientists agree that conception marks the beginning of a human being—a being that is alive and is a member of the human species. There is overwhelming agreement on this point in countless medical, biological, and scientific writings[^5].
 
 We also have one of the strongest pro-choice advocate, Peter Singer, that was quoted [[From Cells to Sentience - The Biological Case Against Abortion#^1877e4|earlier]]:
 
@@ -151,17 +136,15 @@ And many more secular and pro-choice sources can be found [here](https://www.epm
 
 ## The road ahead for pro-choice advocacy
 
-While many tend to concede these biological facts, note also the implicit assumption being made here; that we ought to attribute moral value equally to all biological human beings. For people such as Peter Singer, this was his line of attack as he writes:
+While many tend to concede these biological facts, note the implicit assumption being made: that we ought to attribute moral value equally to all biological human beings. For people such as Peter Singer, this was his line of attack as he writes:
 
-> The solution, however, is not to accept the pro-life view that the fetus is a human being with the same moral status as yours or mine. The solution is the very opposite: to abandon the idea that all human life is of equal worth[^8].
+> The solution, however, is not to accept the pro-life view that the fetus is a human being with the same moral status as yours or mine. The solution is the very opposite: to abandon the idea that all human life is of equal worth[^6].
 
-A dangerous track to go down on, but this puts pro-lifers in a favourable position, for the burden of proof then shifts over to pro-choice advocates to show why certain differences between the born and unborn necessitates attributing unequal moral status. If they're unable to, it'd parallel oppressing people based on morally irrelevant biological traits such as race and gender. This brings us to their *philosophical* definition of what constitutes human beings, and also where the real abortion debate really lies.
+A dangerous track to go down on, but this puts pro-lifers in a favourable position. The burden of proof now shifts over to pro-choice advocates to demonstrate why certain differences between the born and unborn necessitates attributing unequal moral status. If they fail to do so, it would draw parallels to oppressing people based on morally irrelevant biological traits such as race and gender. This brings us to their *philosophical* definition of what constitutes human beings, where the real abortion debate really lies.
 
 [^1]: Koukl, G. (1999). _Precious unborn human persons_. Stand to Reason.
 [^2]: Horn, T. (2023). _Persuasive pro-life: How to talk about our culture’s toughest issue_. Catholic Answers Press.
 [^3]: [Down Syndrome (for Parents) | Nemours KidsHealth](https://kidshealth.org/en/parents/down-syndrome.html#:~:text=In%20most%20cases%20of%20Down,21%20attaches%20to%20another%20chromosome.)
 [^4]: [Turner Syndrome (for Parents) | Nemours KidsHealth](https://kidshealth.org/en/parents/turner.html#:~:text=To%20diagnose%20Turner%20syndrome%2C%20doctors,instead%20of%20the%20usual%2046.)
-[^5]: [The boy whose blood has no father | New Scientist](https://www.newscientist.com/article/mg14819982-300-the-boy-whose-blood-has-no-father/)
-[^6]: [On human parthenogenesis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0306987717302694)
-[^7]: Report, Subcommittee on Separation of Powers to Senate Judiciary Committee S-158, 97th Congress, 1st Session, 1981, 7.
-[^8]: Peter Singer and Helen Kuhse, "On Letting Handicapped Infants Die" in *The Right Thing to Do: Basic Readings in Moral Philosophy*, ed. James Rachels (New York: Random House, 1989), p. 146.
+[^5]: Report, Subcommittee on Separation of Powers to Senate Judiciary Committee S-158, 97th Congress, 1st Session, 1981, 7.
+[^6]: Peter Singer and Helen Kuhse, "On Letting Handicapped Infants Die" in *The Right Thing to Do: Basic Readings in Moral Philosophy*, ed. James Rachels (New York: Random House, 1989), p. 146.
