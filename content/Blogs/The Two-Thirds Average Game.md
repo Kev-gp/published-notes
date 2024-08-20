@@ -62,5 +62,5 @@ The common knowledge of the rationality of all players explain why the winning g
 
 I think this also serves as a classic demonstration of the intricate dance and struggle between *reason* and the *passions*. While we strive for logical consistency and rational thinking, our minds are also influenced by various emotions and biases. Not even economic students, for example, can make the winning guess[^2]. But perhaps it's precisely our occasional irrationality—our ability to surprise ourselves and defy statistical expectations—that makes life so fascinating.
 
-[^1]: Keynes, _General Theory of Employment, Interest and Money_, 1936.
+[^1]: Keynes, J. M. (1936). _The General Theory of Employment, Interest and Money_. Wirtschaft u. Finanzen.
 [^2]: Nagel, R. (1995). Unraveling in Guessing Games: An Experimental Study. _The American Economic Review_, _85_(5), 1313–1326. [https://www.jstor.org/stable/2950991](https://www.jstor.org/stable/2950991).
