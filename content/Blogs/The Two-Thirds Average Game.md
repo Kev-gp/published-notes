@@ -8,7 +8,9 @@ date: 2024-08-20
 ---
 Suppose there are $n$ people playing a game. Each player has to guess an integer between $1$ and $100$ (inclusive) simultaneously. The winner is determined by whoever is closest to $\frac{2}{3}$ of the average of numbers chosen by all players.
 
+
 > **Which number should you choose?**
+
 
 There are many variants to this. The original founder Alain Ledoux used a wider range up to $1,000,000,000$. Others like John Maynard Keynes created a similar guessing game called the *Keynesian beauty contest*, where players had to select the six prettiest faces from a hundred photos. The winners are those who picked the most popular of all the players—i.e., the average preference of all those involved.
 
@@ -26,20 +28,20 @@ Now suppose we made another assumption:
 
 If so, then their range of numbers will also be $1\leq x \leq 67$. But by eliminating those $x>67$, we too can use the same line of reasoning in our earlier analysis and claim that no *rational* player would choose $45<x\leq 67$, where $45=\frac{2}{3}(67)$ is now our new maximum.
 
-We can continually apply this logic, getting the maximum down from $45$ to $\frac{2}{3}(45)=30$, etc. Note however that this assumes that
+We can continually apply this logic, getting the maximum down from $45$ to $\frac{2}{3}(45)=30$. Note however that this assumes that
 
-> *We have the knowledge that others are rational, who also have the knowledge that others are rational…*
+> *We have the knowledge that others are rational, who also have the knowledge that others are rational.*
 
-and so on. Summarizing, we have:
+If other rational players have the knowledge that other players are rational, then we can expect them to shorten the set of possible answers to $1\leq x \leq 30$. This same process can go on and on. Summarizing, we have:
 
-| Avoid            | Reason                                                         | Assumption                                                                                                           |
-| ---------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| $> 67$           | Weakly dominated by 67                                         | rationality                                                                                                          |
-| $67 \geq x > 45$ | Weakly dominated once we eliminate $68-100$ "in others' shoes" | rationality + knowledge that others are rational                                                                     |
-| $45\geq x > 30$  | "in others' shoes," "in others' shoes"                         | rationality + knowledge that others are rational + knowledge that others have the knowledge that others are rational |
-| $30\geq x > 20$  | "in shoes," "in shoes," "in shoes"                             | $R, KR, KKR, KKKR$                                                                                                   |
-| $\vdots$         | $\vdots$                                                       | $\vdots$                                                                                                             |
-| 1                | "in shoes," … "in shoes"                                       | common knowledge                                                                                                     |
+| Avoid            | Reason                                                                | Assumption                                                                                                           |
+| ---------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| $> 67$           | Weakly dominated by 67                                                | rationality                                                                                                          |
+| $67 \geq x > 45$ | Weakly dominated by 45 once we eliminate 68 to 100 "in others' shoes" | rationality + knowledge that others are rational                                                                     |
+| $45\geq x > 30$  | "in others' shoes," "in others' shoes"                                | rationality + knowledge that others are rational + knowledge that others have the knowledge that others are rational |
+| $30\geq x > 20$  | "in shoes," "in shoes," "in shoes"                                    | $R, KR, KKR, KKKR$                                                                                                   |
+| $\vdots$         | $\vdots$                                                              | $\vdots$                                                                                                             |
+| 1                | "in shoes," … "in shoes"                                              | common knowledge                                                                                                     |
 
 As we may come to expect, if the same group of players played this game consistently, then the highest possible rational answer gets us down to…pretty much $1$, given the set of assumptions we've made.
 
