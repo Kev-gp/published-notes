@@ -12,7 +12,7 @@ Suppose there are $n$ people playing a game. Each player has to guess an integer
 
 There are many variants to this. The original founder, Alain Ledoux for example, used a wider range up to $1,000,000,000$. Others like John Maynard Keynes created a similar guessing game called the *Keynesian beauty contest*, where players had to select the six prettiest faces from a hundred photos. The winners are those who picked the most popular of all the players—i.e., the average preference of all those involved.
 
-Returning to the original version above, that was explored in one of my introductory lectures on game theory, which made for an intriguing session. Smiles lit up the lecture theatre while everyone debated which strategy they wanted to go for. I gave it a quick thought, figured it had to be a small number, and picked lucky $13$ in the google survey that my professor had created. Once everyone finished choosing theirs, we eagerly awaited the winner's announcement in our next lecture.
+Returning to the initial version above, that was explored in one of my introductory lectures on game theory, which made for an intriguing session. Smiles lit up the lecture theatre while everyone debated which strategy they wanted to go for. I gave it a quick thought, figured it had to be a small number, and picked lucky $13$ in the google survey that my professor had created. Once everyone finished choosing theirs, we eagerly awaited the winner's announcement in our next lecture.
 
 ## Analysis
 
@@ -32,14 +32,14 @@ We can continually apply this logic, getting the maximum down from $45$ to $\fra
 
 and so on. Summarizing, we have:
 
-| What not to play | Why                                                                                                                | Assumption                                       |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
-| $> 67$           | Weakly dominated by 67                                                                                             | rationality                                      |
-| $67 \geq x > 45$ | Not weakly dominated in the original game, but weakly dominated once we eliminate $68$ to $100$ "in others' shoes" | rationality + knowledge that others are rational |
-| $45\geq x > 30$  | "in shoes," "in shoes"                                                                                             | $R, KR, KKR$                                     |
-| $30\geq x > 20$  | "in shoes," "in shoes," "in shoes"                                                                                 | $R, KR, KKR, KKKR$                               |
-| $\vdots$         | $\vdots$                                                                                                           | $\vdots$                                         |
-| 1                | "in shoes," … "in shoes"                                                                                           | common knowledge                                 |
+| What not to play | Reason                                                                                                             | Assumption                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| $> 67$           | Weakly dominated by 67                                                                                             | rationality                                                                                                          |
+| $67 \geq x > 45$ | Not weakly dominated in the original game, but weakly dominated once we eliminate $68$ to $100$ "in others' shoes" | rationality + knowledge that others are rational                                                                     |
+| $45\geq x > 30$  | "in others' shoes," "in others' shoes"                                                                             | rationality + knowledge that others are rational + knowledge that others have the knowledge that others are rational |
+| $30\geq x > 20$  | "in shoes," "in shoes," "in shoes"                                                                                 | $R, KR, KKR, KKKR$                                                                                                   |
+| $\vdots$         | $\vdots$                                                                                                           | $\vdots$                                                                                                             |
+| 1                | "in shoes," … "in shoes"                                                                                           | common knowledge                                                                                                     |
 
 As we may come to expect, if the same group of players played this game consistently, then the highest possible rational answer gets us down to…pretty much $1$, given the set of assumptions we've made.
 
@@ -49,7 +49,7 @@ As Keynes wrote about his beauty contest variant of this guessing game:
 
 ## Common Knowledge
 
-We're not all that rational of course. While this exact strategy/concept was only introduced to us after playing the game, it didn't make much sense at the time to pick $1$, and so I just guessed $13$. 
+We're not all that rational of course. While this exact strategy/concept was only introduced to us after playing the game, it didn't make much sense to me at the time to pick $1$, and so I just guessed $13$. 
 
 In the end, the average number turned out to be $26$, so the winning number was about $\frac{2}{3}(26)\approx 17$. Only two people came closest to that number, excluding me. Close enough, I suppose.
 
@@ -58,6 +58,9 @@ As a final note, the set of assumptions we made towards the end there is what we
 > [!definition]+ Common Knowledge
 > A fact is common knowledge (among the players), if for any finite chain of players $i_{1},\dots,i_{k}$ it is true that $i_{1}$ knows that $i_{2}$ knows that $i_{3}$ knows that … $i_{k-1}$ knows that $i_{k}$ knows the fact.
 
-The common knowledge of the rationality of all players explain why the winning guess in our game is $1$. This also serves as a classic demonstration, in game theory classes, of the intricate dance between *reason* and the *passions*. While we strive for logical consistency and rational thinking, our minds are also influenced by various emotions and biases. But perhaps it's precisely our occasional irrationality—our ability to surprise ourselves and defy statistical expectations—that makes life fascinating.
+The common knowledge of the rationality of all players explain why the winning guess in our game is $1$. It highlights the need to consider what others will do, for this particular strategy to be played. And that may very well mean expecting others to be irrational, and therefore expect a number greater than $1$, as my own professor had shown.
+
+I think this also serves as a classic demonstration of the intricate dance and struggle between *reason* and the *passions*. While we strive for logical consistency and rational thinking, our minds are also influenced by various emotions and biases. Not even economic students, for example, can make the winning guess[^2]. But perhaps it's precisely our occasional irrationality—our ability to surprise ourselves and defy statistical expectations—that makes life so fascinating.
 
 [^1]: Keynes, _General Theory of Employment, Interest and Money_, 1936.
+[^2]: Nagel, R. (1995). Unraveling in Guessing Games: An Experimental Study. _The American Economic Review_, _85_(5), 1313–1326. [https://www.jstor.org/stable/2950991](https://www.jstor.org/stable/2950991).
