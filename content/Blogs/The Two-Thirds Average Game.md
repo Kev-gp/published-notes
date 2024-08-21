@@ -49,11 +49,11 @@ As Keynes wrote about his beauty contest variant of this guessing game:
 
 > It is not a case of choosing those [faces] that, to the best of one's judgment, are really the prettiest, nor even those that average opinion genuinely thinks the prettiest. We have reached the third degree where we devote our intelligences to anticipating what average opinion expects the average opinion to be. And there are some, I believe, who practice the fourth, fifth and higher degrees[^1].
 
-## Common Knowledge
-
 We're not all that rational of course. While this exact strategy/concept was only introduced to us after playing the game, it didn't make much sense to me at the time to pick $1$, and so I just guessed $13$. 
 
 In the end, the average number turned out to be $26$, so the winning number was about $\frac{2}{3}(26)\approx 17$. Only two people came closest to that number, excluding me. Close enough, I suppose.
+
+## Common Knowledge
 
 As a final note, the set of assumptions we made towards the end there is what we call *common knowledge*.
 
