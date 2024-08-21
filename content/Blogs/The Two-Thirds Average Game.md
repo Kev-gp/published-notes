@@ -20,7 +20,7 @@ The initial version above was introduced in one of my game theory courses, which
 
 Let the number we choose be a variable $x$. What may first come to mind is that $x=100$ should not be chosen since if everyone had decided on $100$, then $\frac{2}{3}$ of the average will give us about $67$. This becomes the highest possible average that could possibly occur. As such, we should not be selecting any $x>67$, if we're being **rational**, that is. (In proper terms, we'd say that the strategy of choosing a number above 67 is *weakly dominated* by the strategy of choosing the number 67 itself).
 
-It may seem trivial to assume we're rational. But as my professor had remarked in the following week's lecture: "I have the results with me, but do you guys think there were any of you who actually picked a number above 67?" Immediately, several heads bowed down, guiltily acknowledging their own irrationality.
+It may seem trivial to assume we're rational. But as my professor had remarked in the following week's lecture: "I have the results with me, but do you guys think there were any of you who actually picked a number above 67?" Immediately, several heads bowed down, guiltily acknowledging their own irrationality…
 
 Now suppose we made another assumption: 
 
@@ -60,7 +60,7 @@ As a final note, the set of assumptions we made towards the end there is what we
 > [!definition]+ Common Knowledge
 > A fact is common knowledge (among the players), if for any finite chain of players $i_{1},\dots,i_{k}$ it is true that $i_{1}$ knows that $i_{2}$ knows that $i_{3}$ knows that … $i_{k-1}$ knows that $i_{k}$ knows the fact.
 
-The common knowledge of the rationality of all players explain why the winning guess in our game is $1$. It highlights the need to consider what others will do, for this particular strategy to be played. And that may very well mean expecting others to be irrational, and therefore expect a number greater than $1$, as my own professor had shown.
+The common knowledge of the rationality of all players explain why the winning guess in our game is $1$. It highlights the need to consider what others will do when implementing this strategy. Paradoxically, that may very well mean expecting others to be irrational, and therefore expect a number greater than $1$, as my own professor had demonstrated.
 
 I think this also serves as a classic demonstration of the intricate dance and struggle between *reason* and the *passions*. While we strive for logical consistency and rational thinking, our minds are also influenced by various emotions and biases. Not even economic students, for example, can make the winning guess[^2]. But perhaps it's precisely our occasional irrationality—our ability to surprise ourselves and defy statistical expectations—that makes life so fascinating.
 
