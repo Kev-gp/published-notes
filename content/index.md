@@ -10,10 +10,4 @@ date: 2024-07-29
 > 
 > — Richard Hamming
 
-## Welcome
-
-The graph above shows every individual note I’ve made since 2021 in the digital app *Obsidian*, using the [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkasten).
-
-This site is my digital sanctuary, a place to share and collate some of those notes together that have profoundly impacted my intellectual journey. Hopefully you’ll find them to be just as interesting and thought-provoking :)
-
 See [[Blogs/]].
