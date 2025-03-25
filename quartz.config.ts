@@ -25,7 +25,7 @@ const config: QuartzConfig = {
         header: "Schibsted Grotesk",
         body: "Crimson Pro - Medium",
         code: "IBM Plex Mono",
-      },
+      },       
       colors: {
         lightMode: {
           light: "#faf8f8",
@@ -48,8 +48,8 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
-        },
-      },
+        },  
+      }, 
     },
   },
   plugins: {
