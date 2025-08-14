@@ -5,7 +5,11 @@ tags:
   - writing
 draft: false
 date: 2024-07-30
+modified_date: 2025-08-14T21:22:59+08:00
+created: 2024-07-31T17:04:09+08:00
 ---
+![[2025-08-14 20.58.00.excalidraw|700x400]]
+
 Sitting down at my wooden desk, I could vividly recall the rigorous and demanding process of composing essays at my school table years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock gets louder in the background. I’m brought into a world of academic rigor, measuring every word used to produce a rational argument.
 
 Looking at my journal that lay before me, the contrast is striking. The written words flow freely without restraint. I write because I want to and I let my handwriting go loose, allowing the reflective process of journaling to remain unstifled. It also serves to take down notes as I’d often struggle to remember whatever I’ve read or listened to.

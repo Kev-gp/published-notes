@@ -4,7 +4,7 @@ aliases:
 tags: 
 draft: false
 date: 2025-08-14
-modified_date: 2025-08-14T20:45:36+08:00
+modified_date: 2025-08-14T20:49:50+08:00
 created: 2025-08-14T20:33:26+08:00
 ---
 Here I create a list of topics that I plan to finish writing about eventually.
@@ -25,6 +25,7 @@ Here I create a list of topics that I plan to finish writing about eventually.
 ## Economics
 
 - [ ] Minimum wage laws and the curious case of Singapore
+- [ ] On international wealth and poverty
 
 ## Philosophy
 
