@@ -37,6 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() }
       ]
     }),
     Component.DesktopOnly(Component.RecentNotes({
@@ -64,7 +65,7 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
+        { Component: Component.Darkmode() }
     
       ],
     }),
