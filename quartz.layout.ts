@@ -39,8 +39,6 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ]
     }),
-    Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Recent Writings",
       limit: 5
