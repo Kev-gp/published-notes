@@ -22,6 +22,7 @@ $topSpacing: 6rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
+$fullPageWidth: calc($pageWidth + 2 * $sidePanelWidth);
 
 $mobileGrid: (
   templateRows: "auto auto auto auto auto",
