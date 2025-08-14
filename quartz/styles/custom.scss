@@ -3,7 +3,7 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
-.left {
+/* .left {
     display: grid !important;
     gap: 1.5rem !important;
     grid-template-columns: 1fr;
@@ -38,7 +38,7 @@
     @media all and (max-width: $fullPageWidth) {
       display: flex !important;
     }
-  }
+  } */
 
 // headers font size
 h1 {
