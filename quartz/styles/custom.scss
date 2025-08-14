@@ -3,6 +3,8 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
+$fullPageWidth: 100vw; // define the variable
+
 .left {
     display: grid !important;
     gap: 1.5rem !important;
