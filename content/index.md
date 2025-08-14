@@ -3,6 +3,8 @@ title: My Second Brain
 aliases:
   - homepage
 date: 2024-07-29
+modified_date: 2025-08-14T18:27:20+08:00
+created: 2024-07-31T17:04:09+08:00
 ---
 ![[graph view.png]]
 
