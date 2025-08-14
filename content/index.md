@@ -4,7 +4,7 @@ aliases:
   - homepage
 date: 2024-07-29
 created: 2024-07-31T17:04:09+08:00
-modified_date: 2025-08-14T16:04:55+08:00
+modified_date: 2025-08-14T16:33:06+08:00
 ---
 ![[graph view.png]]
 
@@ -12,4 +12,4 @@ modified_date: 2025-08-14T16:04:55+08:00
 > 
 > — Richard Hamming
 
-See [[Blogs/]]. Testing
+See [[Blogs/]]. Testing 2
