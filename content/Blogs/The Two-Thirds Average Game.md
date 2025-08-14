@@ -5,17 +5,14 @@ tags:
   - math
 draft: false
 date: 2024-08-20
-modified_date: 2025-03-24T23:48:16+08:00
+modified_date: 2025-08-14T21:36:07+08:00
 created: 2024-08-20T20:55:30+08:00
 ---
-Suppose there are $n$ people playing a game. Each player has to guess an integer between $1$ and $100$ (inclusive) simultaneously. The winner is determined by whoever is closest to $\frac{2}{3}$ of the average of numbers chosen by all players.
+Imagine there are $n$ people playing a game. Each player has to guess an integer between $1$ and $100$ (inclusive) simultaneously. The winner is determined by whoever is closest to $\frac{2}{3}$ of the average of the numbers chosen by all players.
 
 
-> **Which number should you choose?**
+Which number should you choose?
 
-…
-…
-…
 
 There are many variants to this. The original founder Alain Ledoux used a wider range up to $1,000,000,000$. Others like John Maynard Keynes created the *Keynesian beauty contest*, where players had to select the six prettiest faces from a hundred photos. The winners are those who picked the most popular of all the players—i.e., the average preference of all those involved.
 
