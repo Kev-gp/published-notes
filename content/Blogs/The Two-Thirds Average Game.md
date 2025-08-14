@@ -5,10 +5,10 @@ tags:
   - math
 draft: false
 date: 2024-08-20
-modified_date: 2025-08-14T22:36:55+08:00
+modified_date: 2025-08-14T23:12:07+08:00
 created: 2024-08-20T20:55:30+08:00
 ---
-Here's a fun little problem that was presented to me, among other students, in an introductory game theory course.
+Here's a fun little problem that was presented to me and other students in an introductory game theory course.
 
 Imagine there are $n$ people playing a game. Each player has to guess an integer between $1$ and $100$ (inclusive) simultaneously. The winner is determined by whoever is closest to $\frac{2}{3}$ of the average of the numbers chosen by all players.
 
@@ -26,7 +26,7 @@ I gave the problem a quick thought, figured it had to be a small number, and pic
 
 What's the best strategy here?
 
-## Initial Analysis
+## Initial analysis
 
 As a start, let us set a variable $x$ as the number we choose.
 
@@ -34,39 +34,46 @@ What may first come to your mind is that $x$ cannot be $100$, because if everyon
 
 > If we're being rational, we should not be selecting any $x>67$.
 
-(In proper terms, we say that the strategy of choosing $x>67$ is *weakly dominated* by the strategy of choosing $x=67$).
+In proper terms, we say that the strategy of choosing $x>67$ is *weakly dominated* by the strategy of choosing $x=67$.
 
 Now suppose we made another assumption: 
 
 > *We have the knowledge that others, too, are rational*.
 
-If so, then they too will choose $1\leq x \leq 67$. So now everyone's chosen number is now restricted to that interval. But notice that we too can use the same line of reasoning earlier, and show that $45<x\leq 67$ does not contain the winning number. Again, if everyone picks $67$ (the maximum possible number in this new interval), then the winning number becomes $\frac{2}{3}(67)=45$, our new maximum. And so our range of numbers to choose from gets reduced down to $1\leq x < 45$.
+This may be a fair assumption to make in my class—one that was filled with game theory enthusiasts. 
+
+If so, then they too will choose $1\leq x \leq 67$. So everyone's chosen number is now restricted to that shorter interval. But notice that we too can use the same line of reasoning earlier and show that $45<x\leq 67$ does not contain the winning number. Again, if everyone picks $67$ (the maximum possible number in this new interval), then the winning number becomes $\frac{2}{3}(67)=45$, our new maximum. And so our range of numbers to choose from gets reduced down to $1\leq x < 45$.
 
 We can continually apply this set of assumptions and logic:
 
-> *We have the knowledge that others are rational, who also have the knowledge that others are rational*…
+> *We have the knowledge that others are rational, who also have the knowledge that others are rational.
 
-If we know that others know that everyone else is rational, we get the maximum down from $45$ to $\frac{2}{3}(45)=30$. This is because we know that the 'others' know that 'everyone else' is shortening their range of numbers to be within $1\leq x < 45$.
+If we know that others know that everyone else is rational, then we know that others know that everyone else is shortening their range of numbers to be within $1\leq x < 45$. And so we get the maximum down from $45$ to $\frac{2}{3}(45)=30$.
 
 Summarising this chain of logic:
 
 | Avoid            | Reason                                                                | Assumption                                                                                                                 |
 | ---------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | $> 67$           | Weakly dominated by 67                                                | $R$ationality                                                                                                              |
-| $67 \geq x > 45$ | Weakly dominated by 45 once we eliminate 68 to 100 "in others' shoes" | $R$ationality + $K$nowledge that others are rational                                                                       |
-| $45\geq x > 30$  | "in others' shoes," "in others' shoes"                                | $R$ationality + $K$nowledge that others are rational + $K$nowledge that others have the knowledge that others are rational |
-| $30\geq x > 20$  | "in shoes," "in shoes," "in shoes"                                    | $R, RK, RKK, RKKK$                                                                                                         |
+| $45<x\leq 67$    | Weakly dominated by 45 once we eliminate 68 to 100 "in others' shoes" | $R$ationality + $K$nowledge that others are rational                                                                       |
+| $30 < x \leq 45$ | "in others' shoes," "in others' shoes"                                | $R$ationality + $K$nowledge that others are rational + $K$nowledge that others have the knowledge that others are rational |
+| $20 < x \leq 30$ | "in shoes," "in shoes," "in shoes"                                    | $R, RK, RKK, RKKK$                                                                                                         |
 | $\vdots$         | $\vdots$                                                              | $\vdots$                                                                                                                   |
 | 1                | "in shoes," … "in shoes"                                              | Common knowledge                                                                                                           |
 
-## Common Knowledge
+## Common knowledge and the Nash equilibrium
 
 The set of assumptions we made towards the end of the table there is what we call *common knowledge*.
 
 > [!definition]+ Common Knowledge
 > A fact is common knowledge (among the players), if for any finite chain of players $i_{1},\dots,i_{k}$ it is true that $i_{1}$ knows that $i_{2}$ knows that $i_{3}$ knows that … $i_{k-1}$ knows that $i_{k}$ knows the fact.
 
-As we may come to expect, if the same group of players played this game consistently, then through an *iterated elimination of weakly dominated strategies*, the highest possible rational answer gets us down to…pretty much $1$, given the set of assumptions we've made. We say that the *Nash equilibrium* in this game, under common knowledge of rationality (more on this later), is for all players to choose $1$.
+As we may come to expect, if the same group of rational players played this game consistently and assumed a common knowledge of rationality, then through an *iterated elimination of weakly dominated strategies*, the highest possible rational answer gets us down to…pretty much $1$. 
+
+We say that the *Nash equilibrium* in this game, under common knowledge of rationality, is for all players to choose $1$.
+
+> [!definition]+ Nash Equilibrium
+> Any combination of strategies in which each player's strategy is their best choice, given the other players' choices.
 
 Keynes had this to say about his beauty contest variant of this guessing game:
 
@@ -76,7 +83,9 @@ We're not all that rational of course. While this exact strategy/concept was onl
 
 In the end, the average number turned out to be $26$, so the winning number was about $\frac{2}{3}(26)\approx 17$. Someone else came closest to that number (and thus won), although I did come quite close with $13$.
 
-## On behavioural game theory and real-world implications
+## Real-world implications
+
+If all players are perfectly 
 
 The common knowledge of the rationality of all players explain why the winning guess in our game is $1$. It highlights the need to consider what others will do when implementing this strategy. Paradoxically, that may very well mean expecting others to be irrational, and therefore expect a number greater than $1$, as my own professor had demonstrated.
 
