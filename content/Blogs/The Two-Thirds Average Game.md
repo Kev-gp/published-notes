@@ -28,7 +28,7 @@ I gave the initial problem a quick thought, figured it had to be a small number,
 As a start, let us set a variable $x$ as the number chosen.
 
 What may first come to mind is that $x$ cannot be $100$, because if everyone decided on $100$, then $\frac{2}{3}$ of the average gives us about $67$. This is the highest possible average that could possibly occur. So, we can conclude:
-$\n$
+
 
 > If we're being rational, we should not be selecting any $x>67$.
 
