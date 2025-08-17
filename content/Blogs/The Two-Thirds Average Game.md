@@ -28,7 +28,7 @@ I gave the initial problem a quick thought, figured it had to be a small number,
 As a start, let us set a variable $x$ as the number chosen.
 
 What may first come to mind is that $x$ cannot be $100$, because if everyone decided on $100$, then $\frac{2}{3}$ of the average gives us about $67$. This is the highest possible average that could possibly occur. So, we can conclude:
-
+$\n$
 
 > If we're being rational, we should not be selecting any $x>67$.
 
@@ -93,9 +93,6 @@ Our professor tried this with us again lecture after lecture. As the games progr
 ![[Pasted image 20250815014420.png]]
 
 What's fascinating is that even without formal instruction, we began to internalize the logic. Rationality wasn't just taught—it's discovered, iteratively, through experience. Indeed, in the same 2005 public experiment with $19196$ participants, the average guess declined over time as well[^2]. Recursive reasoning may very well be a general cognitive pattern.
-
-
-
 
 So, theory shows the game collapses to a single rational choice. Pure reason, when universally applied, leads to predictability. But there's always an intricate dance and struggle between *reason* and the *passions*. Our minds are often influenced by various emotions and biases. Not even economic students, for example, can make the winning guess[^3]. But perhaps it's precisely this tension between the two—our ability to surprise ourselves and defy statistical expectations—that makes life so fascinating.
 
