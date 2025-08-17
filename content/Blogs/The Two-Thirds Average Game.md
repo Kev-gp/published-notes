@@ -90,13 +90,15 @@ With this newfound knowledge and higher-ordered beliefs about others' beliefs, w
 
 Our professor tried this with us again lecture after lecture. As the games progressed, notice how our guesses began to converge downwards. Each game appeared to serve as a feedback loop, where players are adjusting their guesses based on the previous average, anticipating that others would do the same.
 
-![[Pasted image 20250815014420.png]]
+![[Pasted image 20250817173305.png]]
 
 What's fascinating is that even without formal instruction, we began to internalize the logic. Rationality wasn't just taught—it's discovered, iteratively, through experience. Indeed, in the same 2005 public experiment with $19196$ participants, the average guess declined over time as well[^2]. Recursive reasoning may very well be a general cognitive pattern.
 
+![[Pasted image 20250817173327.png]]
+
 So, theory shows the game collapses to a single rational choice. Pure reason, when universally applied, leads to predictability. But there's always an intricate dance and struggle between *reason* and the *passions*. Our minds are often influenced by various emotions and biases. Not even economic students, for example, can make the winning guess[^3]. But perhaps it's precisely our occasional irrationality—our ability to surprise ourselves and defy statistical expectations—that makes life so fascinating.
 
-![[Pasted image 20250817133038.png]]
+![[Pasted image 20250817173428.png]]
 [^4]
 
 [^1]: This is not a case of *strong* domination, since no single strategy strictly outperforms $x>67$ in *every* possible scenario.
