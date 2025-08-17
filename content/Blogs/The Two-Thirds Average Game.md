@@ -36,8 +36,8 @@ $\newline$
 In proper terms, we say that the strategy of choosing $x>67$ is *weakly dominated* by alternative strategies, such as choosing $x=67$[^1].
 
 Now, for my class in particular (one filled with game theory enthusiasts), it may be fair to assume the following:
-
 $\newline\newline$
+
 > *We have the knowledge that others, too, are rational*.
 
 $\newline$
@@ -45,7 +45,7 @@ If so, then other players will choose $1\leq x \leq 67$. Thus everyone's chosen 
 
 We can continually apply this set of assumptions and logic:
 
-${} \newline\newline {}$
+$\newline\newline$
 > *We have the knowledge that others are rational, who also have the knowledge that others are rational.*
 
 $\newline$
