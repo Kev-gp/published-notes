@@ -94,7 +94,7 @@ Our professor tried this with us again lecture after lecture. As the games progr
 
 What's fascinating is that even without formal instruction, we began to internalize the logic. Rationality wasn't just taught—it's discovered, iteratively, through experience. Indeed, in the same 2005 public experiment with $19196$ participants, the average guess declined over time as well[^2]. Recursive reasoning may very well be a general cognitive pattern.
 
-So, theory shows the game collapses to a single rational choice. Pure reason, when universally applied, leads to predictability. But there's always an intricate dance and struggle between *reason* and the *passions*. Our minds are often influenced by various emotions and biases. Not even economic students, for example, can make the winning guess[^3]. But perhaps it's precisely this tension between the two—our ability to surprise ourselves and defy statistical expectations—that makes life so fascinating.
+So, theory shows the game collapses to a single rational choice. Pure reason, when universally applied, leads to predictability. But there's always an intricate dance and struggle between *reason* and the *passions*. Our minds are often influenced by various emotions and biases. Not even economic students, for example, can make the winning guess[^3]. But perhaps it's precisely our occasional irrationality—our ability to surprise ourselves and defy statistical expectations—that makes life so fascinating.
 
 ![[Pasted image 20250817133038.png]]
 [^4]
