@@ -17,5 +17,5 @@ See
 - [[Blogs/]]
 - [[Planned Topics]]
 
-> [!warning] 
-> Things are still a WIP…
+> [!warning]
+> Site is still a WIP…
