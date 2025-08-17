@@ -66,14 +66,14 @@ Extending and summarising this chain of logic:
 
 The assumption we're led to, at the end of the table above, is what we call *common knowledge*.
 
-> [!definition]+ Common Knowledge
+> [!info]+ Common Knowledge
 > A fact is common knowledge (among the players), if for any finite chain of players $i_{1},\dots,i_{k}$, it is true that $i_{1}$ knows that $i_{2}$ knows that $i_{3}$ knows that … $i_{k-1}$ knows that $i_{k}$ knows the fact.
 
 As we may come to expect, if the same group of rational players played this game consistently and assumed a common knowledge of rationality, then through an *iterated elimination of weakly dominated strategies*, the highest possible rational answer gets us down to … pretty much $1$. 
 
 Should all players decide to play $x=1$, under the common knowledge of rationality, we have what we call the *Nash equilibrium* of this game.
 
-> [!definition]+ Nash Equilibrium
+> [!info]+ Nash Equilibrium
 > Any combination of strategies in which each player's strategy is their best choice, given the other players' choices.
 
 Any higher guess can be undercut by anticipating that others will reason similarly, and so the only stable outcome is the lowest possible number.
