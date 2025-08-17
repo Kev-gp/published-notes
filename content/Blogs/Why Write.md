@@ -12,7 +12,7 @@ Sitting down at my wooden desk, I could vividly recall the rigorous and demandin
 
 The contrast is striking once I look at the journal lying before me. The words flow freely, unrestrained. I write because I want to and I let my handwriting go loose, allowing the reflective process of journaling to remain unstifled. 
 
-Back then, I used to wonder:
+Back then, I also used to wonder:
 $\newline$
 $\newline$
 > *Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp?*
@@ -41,7 +41,7 @@ But it's not enough to merely capture thoughts.
 
 ### The Hermeneutic Circle
 
-Writing, to me, is more of a technique for growing thoughts than merely harvesting them.
+Writing, to me, is more of a technique for growing thoughts than just harvesting them.
 
 We start with a rough idea (the *whole*), and then refine and interpret it through paragraphs, sentences, phrases, and word choices (the *parts*). By revising through them, our understanding of the whole shifts, prompting changes to the parts again. 
 
