@@ -15,7 +15,7 @@ Here I create a list of topics that I'm hoping to finish writing about. Many are
 
 - Some interesting mathematical theorems
 - The drive for mathematical discovery
-- The intersection of math and biology (biophysics)
+- Where math and biology intersects (biophysics)
 - Other academic research projects
 
 ## Economics
@@ -24,6 +24,7 @@ Here I create a list of topics that I'm hoping to finish writing about. Many are
 - On international wealth and poverty
 - The power of cost-benefit analysis
 - Common economic fallacies
+- Game theory
 
 ## Philosophy
 

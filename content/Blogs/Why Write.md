@@ -8,19 +8,21 @@ date: 2024-07-30
 modified_date: 2025-08-14T21:27:37+08:00
 created: 2024-07-31T17:04:09+08:00
 ---
-Sitting down at my wooden desk, I could vividly recall the rigorous and demanding process of composing essays at my school table years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock gets louder in the background. I’m brought into a world of academic rigor, where every word is weighed, every claim calibrated.
+Sitting down at my wooden desk, I could vividly recall the rigorous and demanding process of composing essays at my school table years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock grew louder in the background. I’m brought into a world of academic rigor, where every word is weighed, every claim calibrated.
 
-The contrast is striking once I look at the journal laying before me. The written words flow freely without restraint. I write because I want to and I let my handwriting go loose, allowing the reflective process of journaling to remain unstifled. 
+The contrast is striking once I look at the journal lying before me. The words flow freely, unrestrained. I write because I want to and I let my handwriting go loose, allowing the reflective process of journaling to remain unstifled. 
 
-Do you ever wonder:
+Sometimes, I also wonder:
 $\newline$
 $\newline$
 > *Why bother reading stacks of books and watching a whole list of videos if they keep slipping through my mental grasp?*
 
 $\newline$
-Nowadays my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I could act on them.
+These days, my notebook acts as a trusty companion I carry with me everywhere I go, always there to capture fleeting thoughts and keep them safe until I can act on them.
 
-Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and make them permanent. Parsing through my notes I sometimes wonder; how does writing shape the way we think and feel?
+Notebooks are versatile, be it in digital or physical form. A powerful assistant to my work or studies, or a journal for self-reflection, it’s in writing that I find relief, a way to effectively organise my thoughts, and make them permanent.
+
+Parsing through my notes I sometimes ask; how does writing shape the way we think and feel?
 
 ## Writing for learning
 
