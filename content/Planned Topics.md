@@ -4,10 +4,8 @@ aliases:
 tags: 
 draft: false
 date: 2025-08-14
-modified_date: 2025-08-14T23:15:38+08:00
-created: 2025-08-14T20:33:26+08:00
 ---
-Here I create a list of topics that I plan to finish writing about eventually.
+Here I create a list of topics that I'm hoping to finish writing about. Many are already somewhat half-written (thanks to the [Zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) method of note-taking).
 
 ## Personal
 
@@ -15,21 +13,23 @@ Here I create a list of topics that I plan to finish writing about eventually.
 
 ## Mathematics
 
-- Godel's incompleteness theorems
-- Jordan curve theorem
+- Some interesting mathematical theorems
 - The drive for mathematical discovery
-- Some academic research projects
+- The intersection of math and biology (biophysics)
+- Other academic research projects
 
 ## Economics
 
-- Minimum wage laws and the curious case of Singapore
+- Minimum wage laws and the case of Singapore
 - On international wealth and poverty
+- The power of cost-benefit analysis
+- Common economic fallacies
 
 ## Philosophy
 
-- Theological stuff, meditations on modern-day apologetics
-- How to have prolific conversations
+- Theological stuff
+- Meditations on modern-day apologetics
+- The prerequisites to prolific conversations
 - The tragic vision of Man
 - When life begins
 - On embracing fleeting friendships
-- Some controversial topics
