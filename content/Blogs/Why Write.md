@@ -47,7 +47,7 @@ We start with a rough idea (the *whole*), and then refine and interpret it throu
 
 That is very much the essence of the *hermeneutic circle*, conceived by the German philosopher Martin Heidegger in his 1927 book *Being and Time*. Writing becomes cyclical, rather than linear.
 
-![[Pasted image 20250817165028.png]]
+![[Pasted image 20250818145859.png]]
 
 It is from this that new creative ideas and insights are generated. I believe this to be possible in the slow and contemplative approach of writing that encourages reviewing, constant editing, and pondering on the implications of ideas overtime (this is what gives digital notebooks an advantage). It makes our intellectual endeavours possible[^3].
 
@@ -79,7 +79,7 @@ This enables our subconscious to guide us and tap into our innermost thoughts an
 
 For others, however, it can be understandably frightening. Rendering deeply rooted thoughts into words can uncover something we may not want to hear. But, as Demetriou argues, this revealing process is precisely what associates writing with therapy, so much so that the term “writing therapy” has long since been a part of psychology. ^84653e
 
-When starting a new page in my journal, the first few lines are always planned. I knew what I wanted to write about and could fill up half the page rather quickly. But as time went on, I realized most those lines could be safely discarded. The real insights are what remained after. These could be undisclosed aspects of us, as Demetriou suggests, an experience familiar to me when penning down various experiences. As difficult as it is, the discovery and exploration in that moment of vulnerability can be conducive to our psychological well-being. It can be a source of calm joy, when we let go of negative emotions and gain perspective. It calms us and lifts the weight off our shoulders. And it allows us to become better listeners to ourselves, creating a habit of mind that offers to understand the deeper parts of our soul.
+When starting a new page in my journal, the first few lines are always planned. I knew what I wanted to write about and could fill up half the page rather quickly. But as time went on, I realized most of those lines could be safely discarded. The real insights are what remained after. These could be undisclosed aspects of us, as Demetriou suggests, an experience familiar to me when penning down various experiences. As difficult as it is, the discovery and exploration in that moment of vulnerability can be conducive to our psychological well-being. It can be a source of calm joy, when we let go of negative emotions and gain perspective. It calms us and lifts the weight off our shoulders. And it allows us to become better listeners to ourselves, creating a habit of mind that offers to understand the deeper parts of our soul.
 $\newline$
 $\newline$
 > *We must recollect our experiences and derive from them their moral. Otherwise, we remain in the past, plagued by reminiscences, tormented by conscience, cynical for the loss of what might have been, unforgiving of ourselves, and unable to accept the challenges and tragedies facing us. We must recollect ourselves or suffer in direct proportion to our ignorance and avoidance. We must gather everything from the past that we avoided. We must rekindle every lost opportunity. We must repent for missing the mark, meditate on our errors, acquire now what we should have acquired then, and put ourselves back together.*
