@@ -5,7 +5,6 @@ tags:
   - writing
 draft: false
 date: 2024-07-30
-modified_date: 2025-08-14T21:27:37+08:00
 created: 2024-07-31T17:04:09+08:00
 ---
 Sitting down at my wooden desk, I could vividly recall the rigorous and demanding process of composing essays at my school table years back. I'd start chewing the inside of my cheek, my brows furrowed. The air thickened with tension and anxiety of the task at hand as each tick of the clock grew louder in the background. I’m brought into a world of academic rigor, where every word is weighed, every claim calibrated.
@@ -71,7 +70,7 @@ $\newline$
 > *— Daniel Kahneman*
 
 $\newline$
-## Writing as therapy
+## Writing as emotional cartography
 
 The slow and measured practice of writing also preserves our emotional well-being. Indeed, writing is more than just an intellectual activity. Life writer and researcher Nicoletta Demetriou in her TED talk[^4] explores the deeper wonders of writing by emphasising its transformative power in helping writers achieve self-discovery and personal growth, particularly by “writing without thinking”. That is, to write spontaneously and without any preconceived notions.
 

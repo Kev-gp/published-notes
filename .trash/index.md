@@ -1,4 +1,0 @@
----
-aliases: 
-title: My Blogs
----
