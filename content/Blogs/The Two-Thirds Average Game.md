@@ -64,7 +64,7 @@ Extending and summarising this chain of logic:
 
 ## Common knowledge and the Nash equilibrium
 
-The assumption we're led to, at the end of the table above, is what we call *common knowledge*.
+The assumption we're led to, at the end of the table above, is what we call *common knowledge*[^2].
 
 > [!info]+ Common Knowledge
 > A fact is common knowledge (among the players), if for any finite chain of players $i_{1},\dots,i_{k}$, it is true that $i_{1}$ knows that $i_{2}$ knows that $i_{3}$ knows that … $i_{k-1}$ knows that $i_{k}$ knows the fact.
@@ -92,16 +92,17 @@ Our professor tried this with us again lecture after lecture. As the games progr
 
 ![[Pasted image 20250817173305.png]]
 
-What's fascinating is that even without formal instruction, we began to internalize the logic. Rationality wasn't just taught—it's discovered, iteratively, through experience. Indeed, in the same 2005 public experiment with $19196$ participants, the average guess declined over time as well[^2]. Recursive reasoning may very well be a general cognitive pattern.
+What's fascinating is that even without formal instruction, we began to internalize the logic. Rationality wasn't just taught—it's discovered, iteratively, through experience. Indeed, in the same 2005 public experiment with $19196$ participants, the average guess declined over time as well[^3]. Recursive reasoning may very well be a general cognitive pattern.
 
 ![[Pasted image 20250817173327.png]]
 
-So, theory shows the game collapses to a single rational choice. Pure reason, when universally applied, leads to predictability. But there's always an intricate dance and struggle between *reason* and the *passions*. Our minds are often influenced by various emotions and biases. Not even economic students, for example, can make the winning guess[^3]. But perhaps it's precisely our occasional irrationality—our ability to surprise ourselves and defy statistical expectations—that makes life so fascinating.
+So, theory shows the game collapses to a single rational choice. Pure reason, when universally applied, leads to predictability. But there's always an intricate dance and struggle between *reason* and the *passions*. Our minds are often influenced by various emotions and biases. Not even economic students, for example, can make the winning guess[^4]. But perhaps it's precisely our occasional irrationality—our ability to surprise ourselves and defy statistical expectations—that makes life so fascinating.
 
 ![[Pasted image 20250817173428.png]]
-[^4]
+[^5]
 
 [^1]: This is not a case of *strong* domination, since no single strategy strictly outperforms $x>67$ in *every* possible scenario.
-[^2]: Schou, A. (2005). _Gæt-et-tal konkurrence afslører at vi er irrationelle_. Politiken - Den levende avis. [https://politiken.dk/danmark/oekonomi/art5698526/G%C3%A6t-et-tal-konkurrence-afsl%C3%B8rer-at-vi-er-irrationelle](https://politiken.dk/danmark/oekonomi/art5698526/G%C3%A6t-et-tal-konkurrence-afsl%C3%B8rer-at-vi-er-irrationelle).
-[^3]: Nagel, R. (1995). Unraveling in Guessing Games: An Experimental Study. _The American Economic Review_, _85_(5), 1313–1326. [https://www.jstor.org/stable/2950991](https://www.jstor.org/stable/2950991).
-[^4]: The same game that our professor did with a previous batch of students. Perhaps there was some collusion going on? (e.g. a group of students selecting 100 on purpose). See [Class broke the guessing 2/3 of the average game : r/math](https://www.reddit.com/r/math/comments/jjfif4/class_broke_the_guessing_23_of_the_average_game/).
+[^2]: Steven Pinker explores this topic at greater depth in his new book. See [When Everyone Knows That Everyone Knows . . . | Book by Steven Pinker | Official Publisher Page | Simon & Schuster](https://www.simonandschuster.com/books/When-Everyone-Knows-That-Everyone-Knows/Steven-Pinker/9781668011577?utm_source=x_post&utm_medium=author_social&utm_campaign=when_everyone_knows_that_everyone_knows&utm_content=).
+[^3]: Schou, A. (2005). _Gæt-et-tal konkurrence afslører at vi er irrationelle_. Politiken - Den levende avis. [https://politiken.dk/danmark/oekonomi/art5698526/G%C3%A6t-et-tal-konkurrence-afsl%C3%B8rer-at-vi-er-irrationelle](https://politiken.dk/danmark/oekonomi/art5698526/G%C3%A6t-et-tal-konkurrence-afsl%C3%B8rer-at-vi-er-irrationelle).
+[^4]: Nagel, R. (1995). Unraveling in Guessing Games: An Experimental Study. _The American Economic Review_, _85_(5), 1313–1326. [https://www.jstor.org/stable/2950991](https://www.jstor.org/stable/2950991).
+[^5]: Another game that our professor did with a previous batch of students. Perhaps there was some collusion going on? (e.g. a group of students selecting 100 on purpose). See [Class broke the guessing 2/3 of the average game : r/math](https://www.reddit.com/r/math/comments/jjfif4/class_broke_the_guessing_23_of_the_average_game/).

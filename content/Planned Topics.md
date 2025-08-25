@@ -11,31 +11,22 @@ Here I create a list of topics that I'm hoping to finish writing about. Many are
 
 - My own workflows, documentations
 
-## Mathematics
+## Interests
 
-- Some interesting mathematical theorems
-- The drive for mathematical discovery
-- Where math and biology intersects (biophysics)
-- Other academic research projects
-
-## Economics
-
-- Minimum wage laws and the case of Singapore
-- On international wealth and poverty
-- The power of cost-benefit analysis
-- Common economic fallacies
-- Game theory
-
-## Philosophy
-
+- Interesting mathematical theorems
+	- The drive for mathematical discovery
+	- Where math and biology intersects
+	- Fragments of a thinking life
+- On economics
+	- Common fallacies
+	- Game theory
 - Theological stuff
-- Meditations on modern-day apologetics
-- The prerequisites to prolific conversations
-- The tragic vision of Man
-- When life begins
-- In search of a moral compass
-- On embracing fleeting friendships
-
-## Psycholinguistics
-
-- The Sapir-Whorf hypothesis
+	- Meditations on modern-day apologetics
+- On life
+	- The prerequisites to prolific conversations
+	- The tragic vision of Man
+	- When life begins
+	- In search of a moral compass
+	- On embracing fleeting friendships
+	- How to read
+	- The Sapir-Whorf hypothesis

@@ -1,5 +1,5 @@
 ---
-title: My Second Brain
+title: Notes from the Undiscovered
 aliases:
   - homepage
 date: 2024-07-29
@@ -16,6 +16,3 @@ See
 
 - [[Blogs/]]
 - [[Planned Topics]]
-
-> [!warning]
-> Site is still a WIP…
