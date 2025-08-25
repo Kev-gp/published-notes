@@ -1,5 +1,5 @@
 ---
-title: Notes from the Undiscovered
+title: My Second Brain
 aliases:
   - homepage
 date: 2024-07-29

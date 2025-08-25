@@ -28,5 +28,5 @@ Here I create a list of topics that I'm hoping to finish writing about. Many are
 	- When life begins
 	- In search of a moral compass
 	- On embracing fleeting friendships
-	- How to read
 	- The Sapir-Whorf hypothesis
+	- On taking long walks
