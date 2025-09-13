@@ -7,13 +7,9 @@ date: 2025-08-14
 ---
 Here I create a list of topics that I'm hoping to finish writing about. Many are already somewhat half-written (thanks to the [Zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) method of note-taking).
 
-## Personal
-
 - My own workflows, documentations
-
-## Interests
-
-- Interesting mathematical theorems
+- On mathematics
+	- Interesting theorems
 	- The drive for mathematical discovery
 	- Where math and biology intersects
 	- Fragments of a thinking life
